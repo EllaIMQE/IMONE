@@ -1,0 +1,26 @@
+{
+  "keywordFileContentHash": "4E652484904E7508F3CCAE3D2DFEE4EA",
+  "keywordClasses": [
+    {
+      "name": "config.transactionId",
+      "keywordMethods": [
+        {
+          "name": "generateRandomNumber",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "generateRandomNumberPROD",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "generateRandomNumberPlaytech",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

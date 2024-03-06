@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1.00</name>
+   <tag></tag>
+   <elementGuidId>94a127bb-d751-4e47-a662-cab91f52fb27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.bet_li.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = '1.00' or . = '1.00')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>171ad886-faf3-4fe1-8fad-47febda19cd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bet_li active</value>
+      <webElementGuid>1f912e9f-d80b-4687-a469-9f6d4a522b4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-index</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>778afb5e-acd9-41d1-b72b-957a17ae1d25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1.00</value>
+      <webElementGuid>7d2b608b-4757-496e-bb2a-3e3453f7d909</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;controlbarH5&quot;)/div[@class=&quot;controlbarChild&quot;]/div[@class=&quot;controlbar_new_web&quot;]/div[@class=&quot;controlbarMain&quot;]/div[@class=&quot;controlbar_top clearfix&quot;]/div[@class=&quot;controlbar_top_main&quot;]/div[@class=&quot;l_betInfo fl&quot;]/div[@class=&quot;info_bet_list&quot;]/div[@class=&quot;bet_ul&quot;]/div[@class=&quot;bet_li active&quot;]</value>
+      <webElementGuid>698670a8-6bbd-4b9e-a48d-62189565a5e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='controlbarH5']/div/div[4]/div/div/div/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>f75f8b74-df74-4c01-a1b0-f0465cadc420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free'])[1]/following::div[10]</value>
+      <webElementGuid>11fb2f2a-21aa-4627-9a88-346c8968b351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bet'])[1]/following::div[12]</value>
+      <webElementGuid>518c3fbe-5526-45fe-9920-9c9ca6394c11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Credits'])[1]/preceding::div[19]</value>
+      <webElementGuid>2f5a2f41-19b4-4ad9-a787-7ebbe00dfd64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Free'])[2]/preceding::div[21]</value>
+      <webElementGuid>4adc3d46-0f33-44cd-977d-182abeafed1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>2bffd8b5-e0ce-4264-9a28-32be7bff8515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1.00' or . = '1.00')]</value>
+      <webElementGuid>b13f508e-123a-413d-8847-48f75304a2ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

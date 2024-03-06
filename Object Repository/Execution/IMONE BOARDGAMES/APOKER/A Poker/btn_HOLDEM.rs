@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_HOLDEM</name>
+   <tag></tag>
+   <elementGuidId>1efe64e7-9e4f-4533-a876-e8537e3c0bae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.game-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctbGameItems']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>247c81bf-71bb-4bf7-b131-8ac5ebee9756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>game-content</value>
+      <webElementGuid>73a6d925-dcc2-4a05-8f73-b0198a482484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> HOLD'EM  0</value>
+      <webElementGuid>27b03c67-a274-4ff2-afe9-9a34565ff410</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctbGameItems&quot;)/div[@class=&quot;game-block game1 active&quot;]/div[@class=&quot;game-content&quot;]</value>
+      <webElementGuid>25859a64-df31-455c-bc0a-9ba54d2fc335</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctbGameItems']/div/div</value>
+      <webElementGuid>9c5969f0-f59f-40e9-b59a-78ea99a36a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ok'])[8]/following::div[8]</value>
+      <webElementGuid>6e0ac552-a58e-489d-b8dc-0b5951836720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ok'])[7]/following::div[8]</value>
+      <webElementGuid>1b27a929-0d20-4e4e-9d69-a65151ac53c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('6+ HOLD', &quot;'&quot;, 'EM')])[1]/preceding::div[5]</value>
+      <webElementGuid>9f639270-e22f-48ce-b03d-a7c0ebe0fa35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div</value>
+      <webElementGuid>efb9e690-f7d3-489c-b62c-fc4d11039e66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot; HOLD&quot; , &quot;'&quot; , &quot;EM  0&quot;) or . = concat(&quot; HOLD&quot; , &quot;'&quot; , &quot;EM  0&quot;))]</value>
+      <webElementGuid>2864a017-c2c7-4eb4-8849-00fab93c1419</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

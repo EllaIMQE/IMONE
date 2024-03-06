@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe</name>
+   <tag></tag>
+   <elementGuidId>06185d9c-39e9-4bad-961a-1958b3b82421</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>iframe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//iframe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>bbc206c4-e503-406e-a445-eac51b05e42b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://inplaymatrix.uat1.evo-test.com/frontend/evo/r1/#provider=redtiger&amp;ua_launch_id=17a0de4c3a7a07fe24298293&amp;game=dragonsfire&amp;table_id=dragonsfire00000&amp;app=</value>
+      <webElementGuid>5cf3bb5c-bb64-471b-9632-95f080e4ba98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;notranslate desktop en&quot;]/div[@class=&quot;loader-frame-container&quot;]/div[@class=&quot;games-container&quot;]/iframe[1]</value>
+      <webElementGuid>a00ceb43-ab5c-4e96-899c-6a74367e5db5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>353bd09a-cc31-4025-bb53-711045b20053</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://inplaymatrix.uat1.evo-test.com/frontend/evo/r1/#provider=redtiger&amp;ua_launch_id=17a0de4c3a7a07fe24298293&amp;game=dragonsfire&amp;table_id=dragonsfire00000&amp;app=']</value>
+      <webElementGuid>0f6abc42-40db-4f46-bcd0-f242823ca547</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02b015c0-a45d-4c34-9bf5-e78606261cdc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b69e28e-bf63-49bb-aaf6-1c268997c12c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c6163739-e7bc-463b-931f-f9efb7735dfd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cff522eb-17fa-419c-9048-2213f81d1999</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3cfbe95e-7ec0-4173-960a-867b57610c7c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f1b3a287-f405-4d07-83dc-d398e768a575</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.MerchantCode</defaultValue>
+      <description></description>
+      <id>52301588-1272-4342-ab78-25f8452215cf</id>
+      <masked>false</masked>
+      <name>MerchantCode</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.PlayerId</defaultValue>
+      <description></description>
+      <id>5e6d7ec6-7a22-474c-87db-fd40800163c8</id>
+      <masked>false</masked>
+      <name>PlayerId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_Fishing/YGR').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>ea8547d5-b1c6-4c74-98c6-a028258ae32c</id>
+      <masked>false</masked>
+      <name>ProductWallet</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_Fishing/YGR').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>803a5e9e-04e0-4295-b670-7f0e51d86605</id>
+      <masked>false</masked>
+      <name>Amount</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.generatedTransactionId</defaultValue>
+      <description></description>
+      <id>294f2ef9-afe5-4b18-815e-642860d7cf8c</id>
+      <masked>false</masked>
+      <name>transactionId</name>
+   </variable>
+</TestCaseEntity>

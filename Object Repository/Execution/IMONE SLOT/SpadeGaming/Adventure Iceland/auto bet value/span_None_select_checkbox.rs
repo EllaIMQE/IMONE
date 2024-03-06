@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_None_select_checkbox</name>
+   <tag></tag>
+   <elementGuidId>33140f02-ec81-4429-ba74-b3de35859868</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='controlbarH5']/div/div[4]/div[2]/div[2]/div[2]/div[4]/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>06c0aac1-539d-4ba6-a932-17182254a406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select_checkbox</value>
+      <webElementGuid>871c6e0f-cef0-48be-ba0f-ea805d682f66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;controlbarH5&quot;)/div[@class=&quot;controlbarChild&quot;]/div[@class=&quot;controlbar_new_web&quot;]/div[@class=&quot;autospin_web active&quot;]/div[@class=&quot;autospin_main&quot;]/div[@class=&quot;autospin_web_center&quot;]/div[@class=&quot;autospin_progress&quot;]/div[@class=&quot;progress_box&quot;]/span[@class=&quot;select_checkbox&quot;]</value>
+      <webElementGuid>819ea123-6f71-426f-b79b-c4c964dcea51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='controlbarH5']/div/div[4]/div[2]/div[2]/div[2]/div[4]/div[3]/span</value>
+      <webElementGuid>a2ea21c3-87ed-40fd-8f0d-7ea3fc96cbbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[2]/following::span[1]</value>
+      <webElementGuid>f1184345-c711-4d01-a49f-39ae77306f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If balance increase by'])[1]/following::span[2]</value>
+      <webElementGuid>872e7c83-5f76-4d36-bf09-1f377172d6e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If balance decrease by'])[1]/preceding::span[1]</value>
+      <webElementGuid>c902d298-38b3-4f1b-9314-58c5dd8c56c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[3]/preceding::span[2]</value>
+      <webElementGuid>51cdf591-d950-4625-927c-546704eb7872</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div[3]/span</value>
+      <webElementGuid>06c52cc7-ea01-4059-bf7f-a1be4bb2afed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_5</name>
+   <tag></tag>
+   <elementGuidId>9acfd4df-adf7-4833-aee2-821e42fa46b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '¥ 5' or . = '¥ 5')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.button-bet > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal']/div/div/div/div/div[2]/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c1509096-193f-4a38-810c-7245771160b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¥ 5</value>
+      <webElementGuid>df9e042c-c064-4a37-8f48-1c3511121843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;modal-inner&quot;]/div[@class=&quot;modal-message&quot;]/div[@class=&quot;bet-setting-container&quot;]/div[@class=&quot;bet-setting-section&quot;]/div[@class=&quot;operation-section&quot;]/div[@class=&quot;operation-wrapper&quot;]/div[@class=&quot;bet-options&quot;]/div[@class=&quot;button-bet&quot;]/div[1]</value>
+      <webElementGuid>08fbd376-5ea7-4f8a-98bb-ba9049233476</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/div/div/div/div[2]/div[2]/div/div/div</value>
+      <webElementGuid>842f8286-0007-4f48-b8a9-fd8cec681b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOTAL BET OPTIONS'])[1]/following::div[6]</value>
+      <webElementGuid>a8c890d3-9b23-448e-881a-97627c2778cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LINE(S) 50'])[1]/following::div[20]</value>
+      <webElementGuid>f8a6bbfd-2ee0-4efc-829e-6822840cd273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¥ 2.5'])[1]/preceding::div[1]</value>
+      <webElementGuid>7f3f27f6-9408-4258-a96f-5c1c04a26e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¥ 1.5'])[1]/preceding::div[3]</value>
+      <webElementGuid>9b63b088-76a4-43a2-8519-a1263f7cfe52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¥ 5']/parent::*</value>
+      <webElementGuid>9d133a70-1653-40d3-9ae7-4f2b24ae28c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div</value>
+      <webElementGuid>c5ff1cb2-a20a-4774-a93b-3ac09ae6e5b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '¥ 5' or . = '¥ 5')]</value>
+      <webElementGuid>a7d74550-412d-4f8e-bc90-b34018e9cb9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

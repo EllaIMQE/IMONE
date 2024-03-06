@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_1000</name>
+   <tag></tag>
+   <elementGuidId>f8074f45-19c9-46a9-83c0-15b7baa6ae5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[(text() = '1000' or . = '1000')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.autospin_list > ul > li:nth-of-type(5)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>83d6cffd-b7e3-4c59-9df9-8a9aca0420a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data</name>
+      <type>Main</type>
+      <value>1000</value>
+      <webElementGuid>c88d89f3-17d4-4df3-9dd8-9cd18dea4895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1000</value>
+      <webElementGuid>559bd6bb-ddd5-4aae-b70d-199773013892</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;controlbarH5&quot;)/div[@class=&quot;controlbarChild&quot;]/div[@class=&quot;controlbar_new_web&quot;]/div[@class=&quot;autospin_web active&quot;]/div[@class=&quot;autospin_main&quot;]/div[@class=&quot;autospin_web_center&quot;]/div[@class=&quot;autospin_list&quot;]/ul[1]/li[5]</value>
+      <webElementGuid>1fbb9718-c34a-4862-bb6b-06695cdc2f89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='controlbarH5']/div/div[4]/div[2]/div[2]/div[2]/div/ul/li[5]</value>
+      <webElementGuid>6314d59a-e80b-415d-931a-a43b3a549cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of Spins'])[1]/following::li[5]</value>
+      <webElementGuid>809e85b0-1341-47c9-bc7c-4a625756eba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto Spin'])[1]/following::li[5]</value>
+      <webElementGuid>23d07400-2eee-4838-9493-efd74afbc215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SPIN WITHOUT REELS'])[1]/preceding::li[2]</value>
+      <webElementGuid>f68bbc29-a9f4-4564-b3c7-8c6f8350b373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stop Auto Spin'])[1]/preceding::li[2]</value>
+      <webElementGuid>400cffc7-d7ec-4636-8978-2187556ce618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1000']/parent::*</value>
+      <webElementGuid>7e5e81ae-a816-4132-bd87-452cd9b4fdee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[5]</value>
+      <webElementGuid>f986fd95-e707-41aa-bbac-dd5070ba2632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '1000' or . = '1000')]</value>
+      <webElementGuid>5a6eb5f8-8803-4309-a1ab-6329fe04c4aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

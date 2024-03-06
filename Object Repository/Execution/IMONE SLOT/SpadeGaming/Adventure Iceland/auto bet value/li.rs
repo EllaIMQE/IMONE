@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li</name>
+   <tag></tag>
+   <elementGuidId>f4d83cbc-c423-44a4-80c3-2d5ac44a92e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='controlbarH5']/div/div[4]/div[2]/div[2]/div[2]/div/ul/li[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.autospin_list > ul > li:nth-of-type(6)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>dd3f0a1c-6b5b-4db1-8190-4c317110dc4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data</name>
+      <type>Main</type>
+      <value>∞</value>
+      <webElementGuid>096c5f81-9bde-4ccd-9ac7-8e16743f3c60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;controlbarH5&quot;)/div[@class=&quot;controlbarChild&quot;]/div[@class=&quot;controlbar_new_web&quot;]/div[@class=&quot;autospin_web active&quot;]/div[@class=&quot;autospin_main&quot;]/div[@class=&quot;autospin_web_center&quot;]/div[@class=&quot;autospin_list&quot;]/ul[1]/li[6]</value>
+      <webElementGuid>e204e707-eed6-4f97-95c9-bca570556d24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='controlbarH5']/div/div[4]/div[2]/div[2]/div[2]/div/ul/li[6]</value>
+      <webElementGuid>9cd25e45-1e60-4b3e-b183-9facf1997aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of Spins'])[1]/following::li[6]</value>
+      <webElementGuid>4acb8886-6f4d-464a-96da-eb2137f8da75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto Spin'])[1]/following::li[6]</value>
+      <webElementGuid>bd8283ea-1ca9-475f-ae4f-6459fe20c31c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SPIN WITHOUT REELS'])[1]/preceding::li[1]</value>
+      <webElementGuid>8d63dc83-b76d-4823-8fdd-7254533d8406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stop Auto Spin'])[1]/preceding::li[1]</value>
+      <webElementGuid>360f97e7-6454-47df-80e0-ee3c851bdff4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[6]</value>
+      <webElementGuid>f4deb3b2-dc91-4701-a06d-4806d9234512</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

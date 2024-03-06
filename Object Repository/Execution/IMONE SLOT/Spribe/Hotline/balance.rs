@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>balance</name>
+   <tag></tag>
+   <elementGuidId>1c7ee914-4aa2-4a4d-89db-186f87969adf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.balance.text-white.mr-2.d-flex.align-items-center.ml-auto</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='How to Play?'])[1]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>810c87b4-7094-4b4e-9476-ae09d3cc2cde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>balance text-white mr-2 d-flex align-items-center ml-auto</value>
+      <webElementGuid>91af1c04-8bdd-429d-b3eb-d03ea32ea29e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 4856.67 CNY</value>
+      <webElementGuid>21d6300c-5fad-4bcc-a699-36e387f47492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;hotline ng-tns-0-0&quot;]/app-root[1]/app-core[1]/div[@class=&quot;game-viewport&quot;]/div[@class=&quot;game-wrapper&quot;]/div[@class=&quot;game gui-bg-gradient&quot;]/div[@class=&quot;game-header-wrapper&quot;]/div[@class=&quot;game-header position-relative&quot;]/app-header[1]/div[@class=&quot;d-flex align-items-center h-100 c-header&quot;]/div[@class=&quot;balance text-white mr-2 d-flex align-items-center ml-auto&quot;]</value>
+      <webElementGuid>3c49e030-6f96-4c75-9e4b-dc930beb2139</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to Play?'])[1]/following::div[1]</value>
+      <webElementGuid>9c20a5e8-9bce-473c-96f7-586f8ba9685a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotline'])[3]/following::div[1]</value>
+      <webElementGuid>947adc7e-74ed-449c-b298-2958fe54dbad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BuEvF6lEkAYhffis74KgbgGjIL5McfhwzbOHAiZnFXboZx9ce3'])[1]/preceding::div[1]</value>
+      <webElementGuid>e8af1101-222f-428e-9cc4-e69537967b3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='4856.67']/parent::*</value>
+      <webElementGuid>4d3b491d-2980-466b-97b1-1434f65f7f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-header/div/div[2]</value>
+      <webElementGuid>65313078-a83c-4cc3-a16d-6306e4e5faf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' 4856.67 CNY' or . = ' 4856.67 CNY')]</value>
+      <webElementGuid>e7a38dcb-6427-47cf-b36a-4019817dff63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

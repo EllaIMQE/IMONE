@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check Transfer Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1b741ca-d601-42b2-8e90-d2076c6a7a0a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f1d9e53-aba2-4fdd-bb99-3ccb7bb82de9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>91538deb-42f9-4a48-afcc-0fc0ac096622</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c3e87dc-aba8-422e-96b8-4e9e5abeb412</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>033717a5-ab91-4fc8-8a3b-0e72d9464b1b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1758b301-4126-4925-b0b7-43c45d9947cb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.MerchantCode</defaultValue>
+      <description></description>
+      <id>3f1d9e53-aba2-4fdd-bb99-3ccb7bb82de9</id>
+      <masked>false</masked>
+      <name>MerchantCode</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.PlayerId</defaultValue>
+      <description></description>
+      <id>91538deb-42f9-4a48-afcc-0fc0ac096622</id>
+      <masked>false</masked>
+      <name>PlayerId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_BoardGames/Lucky').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>4c3e87dc-aba8-422e-96b8-4e9e5abeb412</id>
+      <masked>false</masked>
+      <name>ProductWallet</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_BoardGames/Lucky').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>033717a5-ab91-4fc8-8a3b-0e72d9464b1b</id>
+      <masked>false</masked>
+      <name>Amount</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.generatedTransactionId</defaultValue>
+      <description></description>
+      <id>1758b301-4126-4925-b0b7-43c45d9947cb</id>
+      <masked>false</masked>
+      <name>transactionId</name>
+   </variable>
+</TestCaseEntity>

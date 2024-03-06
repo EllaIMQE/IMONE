@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_X32</name>
+   <tag></tag>
+   <elementGuidId>d2d0a665-81e8-4bbb-9a8c-d92ff114df8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-control.btn-yellow.btn-hotline.btn-hotline_hot.mx-1.w-100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[(text() = 'X32' or . = 'X32')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5870baaf-97b3-4b73-ba70-8e4764118084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-control btn-yellow btn-hotline btn-hotline_hot mx-1 w-100</value>
+      <webElementGuid>a181b239-663a-4fd3-9bc6-15eae3b0ea76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>X32</value>
+      <webElementGuid>23d03886-2d2b-4f4a-b3a3-f05bfa13f092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;hotline ng-tns-0-0&quot;]/app-root[1]/app-core[1]/div[@class=&quot;game-viewport&quot;]/div[@class=&quot;game-wrapper&quot;]/div[@class=&quot;game gui-bg-gradient&quot;]/div[@class=&quot;game-footer-wrapper&quot;]/div[@class=&quot;game-footer&quot;]/app-bet-controls[1]/div[@class=&quot;bet-controls&quot;]/div[@class=&quot;controls&quot;]/app-controls[1]/div[@class=&quot;btn-wrapper d-flex&quot;]/div[@class=&quot;w-100 ml-2 d-flex justify-content-between&quot;]/button[@class=&quot;btn btn-control btn-yellow btn-hotline btn-hotline_hot mx-1 w-100&quot;]</value>
+      <webElementGuid>1c691318-cdd4-4ddb-8b3b-525e6e2491ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X2'])[1]/following::button[1]</value>
+      <webElementGuid>12e35e20-f51c-4725-9fe2-1e45eb17d93f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RED'])[1]/following::button[1]</value>
+      <webElementGuid>e8c5db1a-d5ba-45e7-a98c-88a61316590a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BLACK'])[1]/preceding::button[1]</value>
+      <webElementGuid>aaed665b-a31a-4699-b3ba-ca1b6884c2d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-controls/div/div/button[2]</value>
+      <webElementGuid>e16d8864-eed4-45c8-910f-c1a4c0be51ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'X32' or . = 'X32')]</value>
+      <webElementGuid>cda0b222-dfad-4e62-81be-6e90718effe7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fd5f298-4e3e-43f7-9b88-3ab7de41e476</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2213330d-efd1-4be9-a428-bb60414f7270</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0679e8df-366d-4b4a-9ba1-e10e6965876a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bf25707c-387a-48d4-a528-d83c9e3b80eb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e25a15ff-d2b5-4c28-99e6-3cb7d7e695a5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c4c0aa9-4337-45e9-8ff6-1f7515c4ec87</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.MerchantCode</defaultValue>
+      <description></description>
+      <id>bd547902-a919-4163-af16-9214a9a2282d</id>
+      <masked>false</masked>
+      <name>MerchantCode</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.PlayerId</defaultValue>
+      <description></description>
+      <id>c4846894-f3b1-422f-ae39-d450cb4dd62e</id>
+      <masked>false</masked>
+      <name>PlayerId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_Lottery/VR_Lottery').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>5d314160-908a-42a9-bbfe-8d933e58f2ee</id>
+      <masked>false</masked>
+      <name>ProductWallet</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_Lottery/VR_Lottery').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>5d5f22ea-79f6-40c1-8fd3-21a7ead4a68b</id>
+      <masked>false</masked>
+      <name>Amount</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.generatedTransactionId</defaultValue>
+      <description></description>
+      <id>20e20669-fe03-458a-b4e6-586d7ce6a6b2</id>
+      <masked>false</masked>
+      <name>transactionId</name>
+   </variable>
+</TestCaseEntity>

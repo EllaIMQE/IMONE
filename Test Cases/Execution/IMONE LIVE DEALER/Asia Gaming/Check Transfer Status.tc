@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check Transfer Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7909f158-a96e-4662-bbb8-c1d9165745e5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>31cd6b13-d1b3-4baf-9f2c-751cb35cff0d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d2b9d09-bf40-4f4b-b8ac-a0f3253e228f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4434b108-f491-4b35-9a36-268f4263bb80</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3d473021-4901-46ca-8697-e9a3f4cbe11f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aff8932a-484a-4a03-bf8f-75cbe4d3519c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.MerchantCode</defaultValue>
+      <description></description>
+      <id>31cd6b13-d1b3-4baf-9f2c-751cb35cff0d</id>
+      <masked>false</masked>
+      <name>MerchantCode</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.PlayerId</defaultValue>
+      <description></description>
+      <id>0d2b9d09-bf40-4f4b-b8ac-a0f3253e228f</id>
+      <masked>false</masked>
+      <name>PlayerId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_LiveDealer/Asia_Gaming').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>4434b108-f491-4b35-9a36-268f4263bb80</id>
+      <masked>false</masked>
+      <name>ProductWallet</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_LiveDealer/Asia_Gaming').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>3d473021-4901-46ca-8697-e9a3f4cbe11f</id>
+      <masked>false</masked>
+      <name>Amount</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.generatedTransactionId</defaultValue>
+      <description></description>
+      <id>aff8932a-484a-4a03-bf8f-75cbe4d3519c</id>
+      <masked>false</masked>
+      <name>transactionId</name>
+   </variable>
+</TestCaseEntity>

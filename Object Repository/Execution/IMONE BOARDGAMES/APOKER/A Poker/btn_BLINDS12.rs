@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_BLINDS12</name>
+   <tag></tag>
+   <elementGuidId>c91ef592-995d-4318-955d-c5218376af2e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctbTableItems']/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c387f709-d2f0-40a9-9858-8d13517c01e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table-bg</value>
+      <webElementGuid>a3458908-214b-48b7-9618-5f93678b4ffa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HOLD'EM BLINDS 1/2 >> QUICK JOIN</value>
+      <webElementGuid>67c4162b-0797-4120-aca5-5ae473c84b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctbTableItems&quot;)/div[@class=&quot;table-bar game1&quot;]/div[@class=&quot;table-bg&quot;]</value>
+      <webElementGuid>b04f34da-8e04-43dc-8932-768db674afc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctbTableItems']/div[2]/div[2]</value>
+      <webElementGuid>acfa6c38-2289-4344-a06d-a119778b290c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>> QUICK JOIN'])[1]/following::div[3]</value>
+      <webElementGuid>cf8391df-e742-4b7b-804d-7c55297b3597</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BLINDS 0.50/1'])[1]/following::div[3]</value>
+      <webElementGuid>a91def11-74b1-444a-8051-50237b6e5ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]</value>
+      <webElementGuid>a9f772d9-aa57-49b3-bbad-a3c5a0ae968f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;HOLD&quot; , &quot;'&quot; , &quot;EM BLINDS 1/2 >> QUICK JOIN&quot;) or . = concat(&quot;HOLD&quot; , &quot;'&quot; , &quot;EM BLINDS 1/2 >> QUICK JOIN&quot;))]</value>
+      <webElementGuid>9c38a647-f6ca-4fd2-ad86-ced3a5f0a6e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>UAT</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>generatedTransactionId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>operatoralpha.staging.imaegisapi.com, operatorapi.staging.imaegisapi.com</description>
+      <initValue>'http://operatorapi-staging.imaegisapi.com'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'operatoralpha.staging.imaegisapi.com'</initValue>
+      <name>IP_API_ALPHA</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>imqatest1</description>
+      <initValue>'IM_AJ02'</initValue>
+      <name>PlayerId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'imqetest'</initValue>
+      <name>Register_PlayerID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>OHlAeDiHv2xRD4J4z4NTeXbxIUwjq1Nq</description>
+      <initValue>'OHlAeDiHv2xRD4J4z4NTeXbxIUwjq1Nq'</initValue>
+      <name>MerchantCode_SB</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Sandboxstg</description>
+      <initValue>'Sandboxstg'</initValue>
+      <name>MerchantCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>MightPanda</description>
+      <initValue>'OngiaoRo164fpOFoBfnlilqyn7PKKJMV'</initValue>
+      <name>MerchantCode_Playtech</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'CGI_Test'</initValue>
+      <name>PlayerId_Playtech</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

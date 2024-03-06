@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Check Transfer Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03c1f1ba-7622-49bb-897e-27135a2a09b6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe783d69-4928-4957-9237-10d7611238d6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a0456a3-0a6e-494a-a43e-6ca791bb5004</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07280624-f7cc-427b-9fb2-b8ea063e0b3b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0d713b8-4920-4ae3-bd64-ece65a1fcb2f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6354154f-322b-4aa8-92ca-3a88d9c6964d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.MerchantCode</defaultValue>
+      <description></description>
+      <id>fe783d69-4928-4957-9237-10d7611238d6</id>
+      <masked>false</masked>
+      <name>MerchantCode</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.PlayerId</defaultValue>
+      <description></description>
+      <id>2a0456a3-0a6e-494a-a43e-6ca791bb5004</id>
+      <masked>false</masked>
+      <name>PlayerId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_Lottery/Shi_Cai').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>07280624-f7cc-427b-9fb2-b8ea063e0b3b</id>
+      <masked>false</masked>
+      <name>ProductWallet</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_Lottery/Shi_Cai').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>f0d713b8-4920-4ae3-bd64-ece65a1fcb2f</id>
+      <masked>false</masked>
+      <name>Amount</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.generatedTransactionId</defaultValue>
+      <description></description>
+      <id>6354154f-322b-4aa8-92ca-3a88d9c6964d</id>
+      <masked>false</masked>
+      <name>transactionId</name>
+   </variable>
+</TestCaseEntity>

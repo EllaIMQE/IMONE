@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_number Of Spins</name>
+   <tag></tag>
+   <elementGuidId>74d1b83b-aaba-45f9-a26c-7c0c567868ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.button-continue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='NUMBER OF SPINS'])[1]/preceding::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6dc43023-3ea6-4f01-b55e-19b298cb43b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-continue</value>
+      <webElementGuid>e58af085-f228-409a-9f68-8d7fcee1e6a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>28 auto spins</value>
+      <webElementGuid>985a37d3-befa-4341-9f3a-944bff1b78c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;modal-inner&quot;]/div[@class=&quot;modal-message&quot;]/div[@class=&quot;auto-spin-container&quot;]/div[@class=&quot;auto-spin-section&quot;]/div[@class=&quot;operation-section&quot;]/div[@class=&quot;operation-wrapper&quot;]/div[@class=&quot;continue&quot;]/div[@class=&quot;button-continue&quot;]</value>
+      <webElementGuid>36bc1c7f-2349-4983-a969-54a4b37040ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>b2916cc5-0319-4009-8113-a50f7d01d076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AUTO SPIN'])[1]/following::div[4]</value>
+      <webElementGuid>ee18ae2c-b339-47c5-abec-7889e3c3b6e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LINE(S) 50'])[1]/following::div[18]</value>
+      <webElementGuid>420d7f79-b15e-4fb0-adf3-6d12be592c73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NUMBER OF SPINS'])[1]/preceding::div[1]</value>
+      <webElementGuid>781fcfc6-42ef-491b-a95b-a39caf4aa1aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¥ 19,518.37'])[2]/preceding::div[11]</value>
+      <webElementGuid>e14134b6-04e8-4029-ab08-487e38b96699</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>21f13269-b196-40f4-ae36-15b1ac459ea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '28 auto spins' or . = '28 auto spins')]</value>
+      <webElementGuid>a1d21009-390b-48f7-bc1f-c5a7adaf97a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

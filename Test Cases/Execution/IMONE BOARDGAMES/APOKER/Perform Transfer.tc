@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>600489a2-a0aa-4176-bed7-61da0824e46a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>412639e7-9f04-42a3-b8c4-cf61c9d9cf51</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9a33233f-0f05-4dd1-93eb-d4fee235dac6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d3cfa565-4376-4a36-bbf7-977a95cce031</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a2fe3109-4cf1-45e6-9dcd-05a1fda30fab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c1d80a2-2b7c-4fa1-8e10-02998aaf1eb9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.MerchantCode</defaultValue>
+      <description></description>
+      <id>0ed2ecfb-8ad6-477b-8ec9-335fe1ee716e</id>
+      <masked>false</masked>
+      <name>MerchantCode</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.PlayerId</defaultValue>
+      <description></description>
+      <id>68a83c09-eff4-47a0-a57d-4487017e9aa6</id>
+      <masked>false</masked>
+      <name>PlayerId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_BoardGames/Apoker').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>848f6ecc-fb8c-4d10-a939-cc3f8b167e91</id>
+      <masked>false</masked>
+      <name>ProductWallet</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_BoardGames/Apoker').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>2a55a6b9-1062-4bee-bc50-3ea6597c22b5</id>
+      <masked>false</masked>
+      <name>Amount</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.generatedTransactionId</defaultValue>
+      <description></description>
+      <id>a8551690-c350-4860-bc91-f8c21b808543</id>
+      <masked>false</masked>
+      <name>transactionId</name>
+   </variable>
+</TestCaseEntity>

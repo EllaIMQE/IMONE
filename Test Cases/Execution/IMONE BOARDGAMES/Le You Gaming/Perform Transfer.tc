@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Perform Transfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09dbc6d5-9264-4b76-8b9a-a1c59e77e218</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>770f1707-c7de-48a7-bb4d-fd47dfac6022</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95c7999f-de64-40e9-90a1-01f8c000c0d0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>714b565a-51a1-4f95-a83f-715d2a8a14fb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8d6e143-7c87-4a29-b038-2fe994e753cf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>668c01d2-710e-47b2-b245-1133899a37a7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.MerchantCode</defaultValue>
+      <description></description>
+      <id>cf9cc883-84fa-42fa-85be-e77c8c718e21</id>
+      <masked>false</masked>
+      <name>MerchantCode</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.PlayerId</defaultValue>
+      <description></description>
+      <id>382037bc-689b-40a7-8eae-015e7f704a2c</id>
+      <masked>false</masked>
+      <name>PlayerId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_BoardGames/Le_You').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>20aef77a-60f5-4d6f-a1d0-c887f4984c11</id>
+      <masked>false</masked>
+      <name>ProductWallet</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('IMONE/IM_BoardGames/Le_You').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>f14ade1c-1021-4ae4-b77f-3c3d66c4da46</id>
+      <masked>false</masked>
+      <name>Amount</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.generatedTransactionId</defaultValue>
+      <description></description>
+      <id>b1d87e3f-7e80-4014-97eb-9f986e651c1a</id>
+      <masked>false</masked>
+      <name>transactionId</name>
+   </variable>
+</TestCaseEntity>

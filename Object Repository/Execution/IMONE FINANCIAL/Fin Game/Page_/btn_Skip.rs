@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Skip</name>
+   <tag></tag>
+   <elementGuidId>2fd74338-e1c3-432b-8f88-585c11398052</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[(text() = 'Skip' or . = 'Skip')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.sc-1lvqobu-4.OSMGJ</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>35c9ffd7-71dc-49ca-9ed6-0ddd84f30d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-1lvqobu-4 OSMGJ</value>
+      <webElementGuid>274dc051-3caa-43a4-ac9c-bad672a22ca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Skip</value>
+      <webElementGuid>d0628abe-dd07-4fde-bf66-1ed5a098c8a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-1ie6xuy-0 hugzcI&quot;]/div[@class=&quot;sc-1ie6xuy-1 hxsACD&quot;]/div[@class=&quot;sc-1ybe6bx-0 kBZZIl&quot;]/div[@class=&quot;sc-1lvqobu-0 evZeJP&quot;]/div[@class=&quot;sc-1lvqobu-3 hupoRi&quot;]/span[@class=&quot;sc-1lvqobu-4 OSMGJ&quot;]</value>
+      <webElementGuid>ea54e60a-e4fe-45a8-9f60-c5e9d9dd5987</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[4]/div[6]/div[2]/span</value>
+      <webElementGuid>4890f117-0546-4693-ab29-744504b1946a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start Game'])[1]/following::span[1]</value>
+      <webElementGuid>5bfb17b7-da5d-4c36-a950-f120ee8e8a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::span[1]</value>
+      <webElementGuid>199e9412-7d30-44a2-86d9-e0a0039e8b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[1]</value>
+      <webElementGuid>0ec042ab-2690-46b2-95f7-9d5c68f7a306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ctrl'])[1]/preceding::span[2]</value>
+      <webElementGuid>190e5c04-f5c1-4638-a878-f05064aa7ecc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Skip']/parent::*</value>
+      <webElementGuid>90832e91-685a-4a52-b5a2-6a37a027fb4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/span</value>
+      <webElementGuid>827c61bb-1575-4b32-aee7-ee44048bcc11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Skip' or . = 'Skip')]</value>
+      <webElementGuid>9132f685-f43f-4fda-9026-76ec73f1632c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_6 PLUS HOLDEM</name>
+   <tag></tag>
+   <elementGuidId>4812213e-b64e-49f0-a456-95f758736aef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctbGameItems']/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>005211f4-fd0e-4400-9be0-b7d7f7990b48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>game-content</value>
+      <webElementGuid>c1583585-41a6-4ef3-b84b-9d1a07b71764</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 6+ HOLD'EM  0</value>
+      <webElementGuid>1da9ff19-b267-43f3-9103-fe2cd66a937c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctbGameItems&quot;)/div[@class=&quot;game-block game6&quot;]/div[@class=&quot;game-content&quot;]</value>
+      <webElementGuid>77259d93-4935-4754-815f-cff9f83b9896</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctbGameItems']/div[2]/div</value>
+      <webElementGuid>06469f4e-842a-4b35-ae09-e460c299cee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('HOLD', &quot;'&quot;, 'EM')])[1]/following::div[4]</value>
+      <webElementGuid>5c186ac2-df44-4da4-ac81-44619fc69b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ok'])[8]/following::div[13]</value>
+      <webElementGuid>dc200727-4970-41a8-bc53-353b256cb97e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('HOLD', &quot;'&quot;, 'EM')])[2]/preceding::div[5]</value>
+      <webElementGuid>5f156d72-dc31-47f7-b077-7a8b2bfadbbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div</value>
+      <webElementGuid>7494e333-aa86-4dd6-bc76-4a1575454a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot; 6+ HOLD&quot; , &quot;'&quot; , &quot;EM  0&quot;) or . = concat(&quot; 6+ HOLD&quot; , &quot;'&quot; , &quot;EM  0&quot;))]</value>
+      <webElementGuid>52bc589e-51ca-4abd-94ed-3f7806eebb3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

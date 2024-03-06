@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Number of Spins_select_checkbox</name>
+   <tag></tag>
+   <elementGuidId>a050ca6b-d043-4f0e-a286-012746535fb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select_checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='controlbarH5']/div/div[4]/div[2]/div[2]/div[2]/div[2]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>982b9c99-4e7b-4085-afd5-6773ff322022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select_checkbox</value>
+      <webElementGuid>44683037-27c9-47a6-b666-e2043fa291f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;controlbarH5&quot;)/div[@class=&quot;controlbarChild&quot;]/div[@class=&quot;controlbar_new_web&quot;]/div[@class=&quot;autospin_web active&quot;]/div[@class=&quot;autospin_main&quot;]/div[@class=&quot;autospin_web_center&quot;]/div[@class=&quot;autospin_ultra&quot;]/div[@class=&quot;ultra_select_box&quot;]/span[@class=&quot;select_checkbox&quot;]</value>
+      <webElementGuid>bc7b1d87-ee2d-4138-8dd7-de9f285a227f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='controlbarH5']/div/div[4]/div[2]/div[2]/div[2]/div[2]/div[2]/span</value>
+      <webElementGuid>5a531f5c-eef7-4586-80a5-cef50201bb08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number of Spins'])[1]/following::span[1]</value>
+      <webElementGuid>98364728-3749-4205-88a9-803b65b0a47c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto Spin'])[1]/following::span[1]</value>
+      <webElementGuid>13670522-7e0b-4d59-bfcc-47f7248c6d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SPIN WITHOUT REELS'])[1]/preceding::span[1]</value>
+      <webElementGuid>e20cad67-ac41-4c89-8d44-003089c6def9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stop Auto Spin'])[1]/preceding::span[1]</value>
+      <webElementGuid>9ef122b7-46b3-45e5-8f98-149c8f082c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]/div[2]/span</value>
+      <webElementGuid>46c17f4d-93da-4520-8783-0ca55d1f9f44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

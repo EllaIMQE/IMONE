@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_AutoPlay_over</name>
+   <tag></tag>
+   <elementGuidId>9940756e-fc35-45b1-8138-95fadb5baffb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.bgimgStyle.bttn_AutoPlay_down</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='controlbarH5']/div/div[4]/div/div/div/div[4]/div[3]/div/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;controlbarH5&quot;)/div[@class=&quot;controlbarChild&quot;]/div[@class=&quot;controlbar_new_web&quot;]/div[@class=&quot;controlbarMain&quot;]/div[@class=&quot;controlbar_top clearfix&quot;]/div[@class=&quot;controlbar_top_main&quot;]/div[@class=&quot;l_info_spin fr clearfix&quot;]/div[@class=&quot;l_auto_par fl&quot;]/div[@class=&quot;l_auto&quot;]/span[@class=&quot;bgimgStyle bttn_AutoPlay_over&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bttn_AutoPlay</value>
+      <webElementGuid>e1ecc105-fdab-496c-b6c9-4ad7e9122da1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bgimgStyle bttn_AutoPlay_over</value>
+      <webElementGuid>327b17fb-42e5-4a28-aeda-214b1a1e598b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>unclick</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1fbbd533-5ac3-4a5f-bfc9-667e08f69715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;controlbarH5&quot;)/div[@class=&quot;controlbarChild&quot;]/div[@class=&quot;controlbar_new_web&quot;]/div[@class=&quot;controlbarMain&quot;]/div[@class=&quot;controlbar_top clearfix&quot;]/div[@class=&quot;controlbar_top_main&quot;]/div[@class=&quot;l_info_spin fr clearfix&quot;]/div[@class=&quot;l_auto_par fl&quot;]/div[@class=&quot;l_auto&quot;]/span[@class=&quot;bgimgStyle bttn_AutoPlay_over&quot;]</value>
+      <webElementGuid>adab283a-ad1f-4891-a53c-5bbe1800f6d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='controlbarH5']/div/div[4]/div/div/div/div[4]/div[3]/div/span</value>
+      <webElementGuid>10e708f6-e3e6-44bb-ab3a-dc20c3b3f38a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/div/span</value>
+      <webElementGuid>d4d2bffe-395e-441f-a4d2-cedd05636774</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

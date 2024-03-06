@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_add</name>
+   <tag></tag>
+   <elementGuidId>6493b80f-4e9b-47a4-bee3-a5e20496d989</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-game.m-0.next</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9ac148e3-0a14-476c-9e90-6836a325ec01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-game m-0 next</value>
+      <webElementGuid>701e02e0-5184-481e-9180-2e4bbb7be77e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;hotline ng-tns-0-0&quot;]/app-root[1]/app-core[1]/div[@class=&quot;game-viewport&quot;]/div[@class=&quot;game-wrapper&quot;]/div[@class=&quot;game gui-bg-gradient&quot;]/div[@class=&quot;game-footer-wrapper&quot;]/div[@class=&quot;game-footer&quot;]/app-bet-controls[1]/div[@class=&quot;bet-controls&quot;]/div[@class=&quot;bet-input&quot;]/app-bet-input[1]/div[@class=&quot;bet-input ml-auto gui-bg&quot;]/div[@class=&quot;input-change d-flex justify-content-center align-items-center&quot;]/button[@class=&quot;btn btn-game m-0 next&quot;]</value>
+      <webElementGuid>b6450561-0f33-4534-99ea-7f9dbc6528fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>c28ea9db-7640-4b5a-a61d-daa9bf09edb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

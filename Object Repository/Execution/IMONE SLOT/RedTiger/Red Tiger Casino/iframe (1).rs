@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>iframe (1)</name>
+   <tag></tag>
+   <elementGuidId>69130f46-efe1-4f32-bbf5-b5f916e718ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>iframe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slotContainer']/iframe</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>iframe</value>
+      <webElementGuid>27c42118-6567-48fa-9f06-e35217d1d2a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://gserver-evo-inplaymatrix0000-staging.dopamine-gaming.com/evo-inplaymatrix0000/launcher/DragonsFire?baseUrl=https%3A%2F%2Fgserver-evo-inplaymatrix0000-staging.dopamine-gaming.com%2Fevo-inplaymatrix0000&amp;playMode=real&amp;channel=desktop&amp;ne_evo_token=eyJraWQiOiIxNjcwNDIzODM0OTY4IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJjdXIiOiJDTlkiLCJndHAiOiJkcmFnb25zZmlyZSIsInBnbiI6IkRyYWdvbnNGaXJlIiwianVyIjoiWEEiLCJoaWVyYXJjaHkiOiJbaW5wbGF5bWF0cml4MDAwMV0iLCJlcGlkIjoiUlRfN2NCclEzeXhaa2t4eVp5WmVCOVYiLCJwaWQiOiJwN2xlbGFlMnNodWFkanNtIiwiZXhwIjoxNzAyODY0MzAyLCJ0aWQiOiJkcmFnb25zZmlyZTAwMDAwIiwiY2lkIjoiaW5wbGF5bWF0cml4MDAwMSIsInNpZCI6InA3bGVsYWUyc2h1YWRqc21ycnZzeHF3NG5jZHFhaGN1MmU4NWNlNzMifQ.QIbCTj3fotYMn5ITJb2yY4k7Ku7-H6nEq-KNISAUGaN-CAPN36XNgSkw6eXTm23xjpdH2aeUi7uZEcFScmJUAw&amp;token=p7lelae2shuadjsmrrvsxqw4ncdqahcu2e85ce73&amp;gameId=DragonsFire&amp;lang=en&amp;casino=inplaymatrix0001&amp;fullscreen=true&amp;clock=false</value>
+      <webElementGuid>dbe87e5a-9108-4f47-852e-9c1702a49dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>allow</name>
+      <type>Main</type>
+      <value>microphone; camera;</value>
+      <webElementGuid>0267286e-9c8f-4d7a-a546-3d709e8fb126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slotContainer&quot;)/iframe[1]</value>
+      <webElementGuid>f687a236-472d-4983-a57f-78797fc80c16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Execution/IMONE SLOT/RedTiger/Red Tiger Casino/iframe</value>
+      <webElementGuid>e69f56bf-4727-49c0-ac32-c94e2adf15e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slotContainer']/iframe</value>
+      <webElementGuid>8ac2abb9-d602-46d9-85b6-cdb33e7e976c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//iframe</value>
+      <webElementGuid>8437ea96-87c7-41d3-b48a-76ddaeb406d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//iframe[@src = 'https://gserver-evo-inplaymatrix0000-staging.dopamine-gaming.com/evo-inplaymatrix0000/launcher/DragonsFire?baseUrl=https%3A%2F%2Fgserver-evo-inplaymatrix0000-staging.dopamine-gaming.com%2Fevo-inplaymatrix0000&amp;playMode=real&amp;channel=desktop&amp;ne_evo_token=eyJraWQiOiIxNjcwNDIzODM0OTY4IiwidHlwIjoiSldUIiwiYWxnIjoiRVMyNTYifQ.eyJjdXIiOiJDTlkiLCJndHAiOiJkcmFnb25zZmlyZSIsInBnbiI6IkRyYWdvbnNGaXJlIiwianVyIjoiWEEiLCJoaWVyYXJjaHkiOiJbaW5wbGF5bWF0cml4MDAwMV0iLCJlcGlkIjoiUlRfN2NCclEzeXhaa2t4eVp5WmVCOVYiLCJwaWQiOiJwN2xlbGFlMnNodWFkanNtIiwiZXhwIjoxNzAyODY0MzAyLCJ0aWQiOiJkcmFnb25zZmlyZTAwMDAwIiwiY2lkIjoiaW5wbGF5bWF0cml4MDAwMSIsInNpZCI6InA3bGVsYWUyc2h1YWRqc21ycnZzeHF3NG5jZHFhaGN1MmU4NWNlNzMifQ.QIbCTj3fotYMn5ITJb2yY4k7Ku7-H6nEq-KNISAUGaN-CAPN36XNgSkw6eXTm23xjpdH2aeUi7uZEcFScmJUAw&amp;token=p7lelae2shuadjsmrrvsxqw4ncdqahcu2e85ce73&amp;gameId=DragonsFire&amp;lang=en&amp;casino=inplaymatrix0001&amp;fullscreen=true&amp;clock=false']</value>
+      <webElementGuid>b982cce6-e178-4f72-8b1e-603ca6bdcb9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

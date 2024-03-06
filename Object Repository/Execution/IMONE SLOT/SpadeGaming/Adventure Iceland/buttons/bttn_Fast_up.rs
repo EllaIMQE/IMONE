@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bttn_Fast_up</name>
+   <tag></tag>
+   <elementGuidId>9748f319-bff0-4734-81f8-808bf2fb85b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.bgimgStyle.bttn_Fast_up</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='controlbarH5']/div/div[4]/div/div/div/div[4]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>79245daa-cbb9-4559-9f64-20d4a0e52335</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bttn_Fast</value>
+      <webElementGuid>744d5938-ccce-4e35-a1ac-1fb473c82cd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bgimgStyle bttn_Fast_up</value>
+      <webElementGuid>735ad80f-58d3-40b8-b178-50ecd7639dc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;controlbarH5&quot;)/div[@class=&quot;controlbarChild&quot;]/div[@class=&quot;controlbar_new_web&quot;]/div[@class=&quot;controlbarMain&quot;]/div[@class=&quot;controlbar_top clearfix&quot;]/div[@class=&quot;controlbar_top_main&quot;]/div[@class=&quot;l_info_spin fr clearfix&quot;]/div[@class=&quot;l_fast fl&quot;]/span[@class=&quot;bgimgStyle bttn_Fast_up&quot;]</value>
+      <webElementGuid>1d1a36e9-d1f0-40d0-bc81-a26e0bdafe31</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='controlbarH5']/div/div[4]/div/div/div/div[4]/div/span</value>
+      <webElementGuid>bb1598ea-0e7a-40e8-9834-16b11aef59ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[4]/div/span</value>
+      <webElementGuid>cb1721a8-edb0-4fcd-af23-337b0b7d96be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_betOptions</name>
+   <tag></tag>
+   <elementGuidId>69e2f402-23c4-40e3-9691-810441f01cb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '¥ 0.5' or . = '¥ 0.5')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a0c0329e-2845-4067-9d9f-cd9656a9a49d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>info-content</value>
+      <webElementGuid>7434b454-5012-4263-8d86-e4c327218eeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¥ 0.5</value>
+      <webElementGuid>243fddc0-9b70-458e-a8c7-ea362d72a2d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;gameControlPanel&quot;)/div[@class=&quot;control-panel-container&quot;]/div[@class=&quot;player-info-section&quot;]/div[@class=&quot;player-info-wrapper&quot;]/div[@class=&quot;info-content&quot;]</value>
+      <webElementGuid>6fa8ae89-9365-4ba4-a392-745acf72a40f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gameControlPanel']/div/div[2]/div/div[2]</value>
+      <webElementGuid>82024091-2afa-4425-925e-9c3db54f221c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¥ 19,555.17'])[1]/following::div[1]</value>
+      <webElementGuid>e0d3e945-e161-4c5e-917b-3fb980705347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PLACE YOUR BETS!'])[1]/following::div[4]</value>
+      <webElementGuid>62b0a8a5-63cf-4311-b7f9-fb738f3811f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No.-'])[1]/preceding::div[8]</value>
+      <webElementGuid>e6f7f585-4371-4be8-ba49-cfb5ee1b089f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div[2]</value>
+      <webElementGuid>e22afacc-74ac-4105-b597-10f05619fbd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '¥ 0.5' or . = '¥ 0.5')]</value>
+      <webElementGuid>6b04a6bf-d0f9-4e86-9df2-640817acbf0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

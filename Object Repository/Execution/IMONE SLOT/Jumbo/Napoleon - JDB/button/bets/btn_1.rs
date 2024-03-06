@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_1</name>
+   <tag></tag>
+   <elementGuidId>4204327f-ebf2-409a-9932-551c5b902ef6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = '¥ 1' or . = '¥ 1')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e936f9e6-350e-4323-a4a0-11f2ac23e157</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>¥ 1</value>
+      <webElementGuid>996e6ace-a933-4971-8088-540621525512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal&quot;)/div[@class=&quot;modal-inner&quot;]/div[@class=&quot;modal-message&quot;]/div[@class=&quot;bet-setting-container&quot;]/div[@class=&quot;bet-setting-section&quot;]/div[@class=&quot;operation-section&quot;]/div[@class=&quot;operation-wrapper&quot;]/div[@class=&quot;bet-options&quot;]/div[@class=&quot;button-bet&quot;]/div[1]</value>
+      <webElementGuid>5a789dce-7a5f-4d28-9543-e959ceafb962</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal']/div/div/div/div/div[2]/div[2]/div/div[4]/div</value>
+      <webElementGuid>2b2c4bc9-d9a1-4bf5-a49d-2ed788a69125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¥ 1.5'])[1]/following::div[2]</value>
+      <webElementGuid>b1d4271b-beac-4b34-8ede-9042c54efdf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¥ 2.5'])[1]/following::div[4]</value>
+      <webElementGuid>a9b8d38e-02d0-4e8c-a2fc-ad4298291f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¥ 0.5'])[2]/preceding::div[1]</value>
+      <webElementGuid>b64e8d73-962c-4470-9a1c-507a092feecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¥ 19,555.17'])[2]/preceding::div[4]</value>
+      <webElementGuid>7fd4d03e-5f50-4522-bd4c-c1dd95d466c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='¥ 1']/parent::*</value>
+      <webElementGuid>c3c8d62e-a12d-4722-afb9-a704b423bba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div</value>
+      <webElementGuid>eeb2b03b-5dcb-4a20-8f8f-908c2b44c08b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '¥ 1' or . = '¥ 1')]</value>
+      <webElementGuid>51c4cb13-7411-498e-86bb-7eee8934ea0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

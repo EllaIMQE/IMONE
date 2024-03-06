@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LAST RESULTS_reels-wrapper</name>
+   <tag></tag>
+   <elementGuidId>3918884b-f174-4cfd-adb3-f2e4f15e37a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.reels-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-hotline/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>27abdf96-1ce1-4f10-b005-4696123bbe5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>reels-wrapper</value>
+      <webElementGuid>8e5902d9-834e-4721-b3a1-e33e959c2669</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;hotline ng-tns-0-0&quot;]/app-root[1]/app-core[1]/div[@class=&quot;game-viewport&quot;]/div[@class=&quot;game-wrapper&quot;]/div[@class=&quot;game gui-bg-gradient&quot;]/div[@class=&quot;game-body&quot;]/app-hotline[1]/div[@class=&quot;position-relative h-100&quot;]/div[@class=&quot;d-flex justify-content-md-center align-items-center h-100 flex-column px-1&quot;]/div[@class=&quot;reels-wrapper&quot;]</value>
+      <webElementGuid>92c06cd3-2eba-408e-9505-5e6fab4cc454</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LAST RESULTS'])[1]/following::div[2]</value>
+      <webElementGuid>251ff84f-04ea-4c85-b079-9a1f9319d0ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='©'])[1]/following::div[15]</value>
+      <webElementGuid>a5175be1-1b0a-4a30-9fe1-cf334a16d69f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='High risk mode'])[1]/preceding::div[1]</value>
+      <webElementGuid>0120b8cd-06ef-4f11-abb9-a888e9f0604f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bet, CNY'])[1]/preceding::div[3]</value>
+      <webElementGuid>2a97052d-3406-4bb8-8ba9-cac3cc6431fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-hotline/div/div/div[2]</value>
+      <webElementGuid>def019a9-3fa3-4d34-aa40-1b5496e14734</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

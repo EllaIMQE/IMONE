@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnSpin</name>
+   <tag></tag>
+   <elementGuidId>12d232e1-9a06-41ac-8eaa-7021e9cf4b4a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btnSpin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buttonSpinPar']/div/div[4]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b0594ac5-d955-44c9-b4b3-f212bd0a339f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btnSpin</value>
+      <webElementGuid>c419269a-73d5-40a3-85a5-fca53dbf5480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;buttonSpinPar&quot;)/div[@class=&quot;l_spinPar&quot;]/div[@class=&quot;l_spin_bg bgimgStyle bttn_spin_bg&quot;]/div[@class=&quot;btnSpin&quot;]</value>
+      <webElementGuid>0aa43443-158b-4630-bba8-20c8ca357861</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buttonSpinPar']/div/div[4]/div[3]</value>
+      <webElementGuid>1c812d12-77b3-44ea-acf7-fe3e3a8edb73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Balance'])[2]/following::div[26]</value>
+      <webElementGuid>da486e1b-6e2b-42cf-9d4f-c1779b9c02b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Good Day'])[2]/following::div[27]</value>
+      <webElementGuid>4bde12fb-ed44-4b3e-82ff-e00c9561adbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[4]/div[3]</value>
+      <webElementGuid>ec67b496-46b5-4aca-9b2b-1b1925886e56</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

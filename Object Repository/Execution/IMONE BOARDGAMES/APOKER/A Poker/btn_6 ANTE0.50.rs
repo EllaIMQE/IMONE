@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_6 ANTE0.50</name>
+   <tag></tag>
+   <elementGuidId>bda9322a-0336-421e-8593-82c266b383b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.table-bg</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctbTableItems']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6017834b-0414-4d46-a04d-ec0afddefb8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table-bg</value>
+      <webElementGuid>35c97561-24f6-4c1b-be43-d844feb1beec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6+ HOLD'EM ANTE 0.50 >> QUICK JOIN</value>
+      <webElementGuid>580b4582-8ed6-43a1-944b-4ea9442c2015</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctbTableItems&quot;)/div[@class=&quot;table-bar game6&quot;]/div[@class=&quot;table-bg&quot;]</value>
+      <webElementGuid>bc2134a8-6f42-42f5-8d05-da110e441177</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctbTableItems']/div/div[2]</value>
+      <webElementGuid>6479408c-6c87-4743-8cc6-b334c9338dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('6+ HOLD', &quot;'&quot;, 'EM')])[1]/following::div[7]</value>
+      <webElementGuid>bcb53f0d-7f82-4b9b-b49d-c7d9053a955a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('HOLD', &quot;'&quot;, 'EM')])[1]/following::div[12]</value>
+      <webElementGuid>d1545cbd-d879-4d55-94dd-711d46763ae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div[2]</value>
+      <webElementGuid>efa32ef3-89ca-4476-b371-e66506422a44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;6+ HOLD&quot; , &quot;'&quot; , &quot;EM ANTE 0.50 >> QUICK JOIN&quot;) or . = concat(&quot;6+ HOLD&quot; , &quot;'&quot; , &quot;EM ANTE 0.50 >> QUICK JOIN&quot;))]</value>
+      <webElementGuid>1ae67b2a-bb4e-493f-87d9-1bd193b88682</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

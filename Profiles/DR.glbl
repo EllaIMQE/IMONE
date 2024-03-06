@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>DR</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>generatedTransactionId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://imone.labadapi.com'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'IM_AJprod02'</initValue>
+      <name>PlayerId</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'imqetestprod1'</initValue>
+      <name>Register_PlayerID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>IMdemo3prod</description>
+      <initValue>'IMdemo3prod'</initValue>
+      <name>MerchantCode_SB</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>IMdemo3prod</description>
+      <initValue>'IMdemo3prod'</initValue>
+      <name>MerchantCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'IMdemo3prod'</initValue>
+      <name>MerchantCode_Playtech</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'AJMightyPandaCNYnew'</initValue>
+      <name>PlayerId_Playtech</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
