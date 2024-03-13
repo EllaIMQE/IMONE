@@ -67,7 +67,7 @@
       <name>GameCode</name>
    </variables>
    <variables>
-      <defaultValue>findTestData('IMONE/IM_Casino/IM_Gaming').getValue(8, 1)</defaultValue>
+      <defaultValue>findTestData('IMONE/IM_Casino/IM_Gaming').getValue(8, 2)</defaultValue>
       <description></description>
       <id>4c713990-c65a-44ed-b0e9-d6b35ecb6a13</id>
       <masked>false</masked>

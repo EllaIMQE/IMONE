@@ -12,13 +12,6 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>b273240f-17d3-4ab5-aca3-38c40873474c</testSuiteGuid>
    <testCaseLink>
-      <guid>25237cbd-a780-40c3-a852-fcbf37e08389</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/Yan You Gaming/NewLaunchMobileGame</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>45ecbcaa-00a8-4bd3-987d-3674f522c966</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -30,6 +23,13 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/Yan You Gaming/GetBalance</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>25237cbd-a780-40c3-a852-fcbf37e08389</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/Yan You Gaming/NewLaunchMobileGame</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

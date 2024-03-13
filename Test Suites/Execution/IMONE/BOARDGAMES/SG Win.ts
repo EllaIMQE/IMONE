@@ -12,13 +12,6 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>fda14b84-322a-48f0-8549-8fb96ce714c2</testSuiteGuid>
    <testCaseLink>
-      <guid>f87f76b4-dd8f-4f4f-b85a-06a651f81577</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/SG Win Gaming/NewLaunchMobileGame</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>7a6ce777-379c-48b1-b6e2-2be91a011417</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -30,6 +23,13 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/SG Win Gaming/GetBalance</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f87f76b4-dd8f-4f4f-b85a-06a651f81577</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/SG Win Gaming/NewLaunchMobileGame</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

@@ -12,13 +12,6 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>501d273f-4abd-4a16-aa8b-3235717a9e92</testSuiteGuid>
    <testCaseLink>
-      <guid>76eb32f3-00ce-4fed-addd-4b351eab47ea</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/King Maker/NewLaunchMobileGame</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>a04d3873-e65d-4803-bb4c-be1ad4ae3d34</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -30,6 +23,13 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/King Maker/GetBalance</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>76eb32f3-00ce-4fed-addd-4b351eab47ea</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/King Maker/NewLaunchMobileGame</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

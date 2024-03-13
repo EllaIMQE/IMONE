@@ -12,13 +12,6 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>8a506d25-513c-44f2-a8b3-2ffb67306bae</testSuiteGuid>
    <testCaseLink>
-      <guid>986729c9-c927-4f33-b236-d52f78d56ad6</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Execution/IMONE SLOT/Skywind/NewLaunchMobileGame</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>ab71671e-b35c-4349-b414-46b74e7d3651</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
@@ -37,6 +30,13 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Execution/IMONE SLOT/Skywind/Player</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>986729c9-c927-4f33-b236-d52f78d56ad6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Execution/IMONE SLOT/Skywind/NewLaunchMobileGame</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

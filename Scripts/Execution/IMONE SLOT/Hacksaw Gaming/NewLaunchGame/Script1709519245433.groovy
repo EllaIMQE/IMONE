@@ -43,7 +43,7 @@ WebUI.openBrowser(gameUrl, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.maximizeWindow(FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.delay(30, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.delay(20, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.enhancedClick(findTestObject('Execution/IMONE SLOT/Hacksaw Gaming/Cubes 2/canvas'), FailureHandling.CONTINUE_ON_FAILURE)
 

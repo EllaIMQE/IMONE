@@ -27,8 +27,6 @@ import org.openqa.selenium.support.ui.ExpectedConditions as ExpectedConditions
 import java.math.BigDecimal as BigDecimal
 import java.math.RoundingMode as RoundingMode
 
-WebUI.callTestCase(findTestCase('Execution/IMONE SLOT/Skywind/NewLaunchGame'), [:], FailureHandling.STOP_ON_FAILURE)
-
 response = WS.sendRequest(findTestObject('Execution/IMONE SLOT/Skywind/Player_GetBalance'))
 
 def jsonSlurper = new JsonSlurper()
@@ -47,6 +45,4 @@ String formattedBalanceWithSymbol = '¥' + formattedBalance
 
 // Print the extracted GameUrl
 println("Balance is: $formattedBalanceWithSymbol")
-
-WebUI.closeBrowser(FailureHandling.CONTINUE_ON_FAILURE)
 

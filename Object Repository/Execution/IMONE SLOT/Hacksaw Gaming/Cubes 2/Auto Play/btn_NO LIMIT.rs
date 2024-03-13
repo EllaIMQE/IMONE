@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_NO LIMIT</name>
+   <tag></tag>
+   <elementGuidId>deaf12a1-4b2c-452a-8d65-8c40cf1e0335</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='WinLimitNoLimit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#WinLimitNoLimit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#WinLimitNoLimit</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>30e891a2-ec2f-4285-b057-b1fe2cc2a1fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>WinLimitNoLimit</value>
+      <webElementGuid>62725041-6570-4959-9767-2d278272f0b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Menu-item WinLimitValue</value>
+      <webElementGuid>8cbdbe84-b949-4149-8aed-15ab665741b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>6ed795be-50bf-47b6-b851-5baa207dbd07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            NO LIMIT
+                                        </value>
+      <webElementGuid>1c4d7cc5-c1c5-4176-933b-a6fe876c4514</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;WinLimitNoLimit&quot;)</value>
+      <webElementGuid>b87b53a4-85ec-4e59-8b96-cd5a8ccadd70</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//li[@id='WinLimitNoLimit']</value>
+      <webElementGuid>389df2c7-14aa-47e4-b4ac-a1397d837b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='WinLimitNavList']/li[4]</value>
+      <webElementGuid>8143691b-eef2-4aeb-bac0-646d906850a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SINGLE WIN LIMIT'])[1]/following::li[4]</value>
+      <webElementGuid>7578e343-87a3-4c22-8306-65aec0974146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom'])[1]/following::li[4]</value>
+      <webElementGuid>1d819075-787a-4faa-ba6b-5017882fa0c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom'])[2]/preceding::li[1]</value>
+      <webElementGuid>80a7c8d3-ae8f-48b3-9910-190c4b97a0a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/ul/li[4]</value>
+      <webElementGuid>6abb4434-ab7b-42a8-9cf9-d969c298cab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'WinLimitNoLimit' and (text() = '
+                                            NO LIMIT
+                                        ' or . = '
+                                            NO LIMIT
+                                        ')]</value>
+      <webElementGuid>14a4fcda-0622-4778-9f49-f17c71e5304b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,5 +1,5 @@
 {
-  "keywordFileContentHash": "C237F37CAAEA3249DF8CA68A76D113BE",
+  "keywordFileContentHash": "1E5DE2DB3E201566FD869EAC6290E4D4",
   "keywordClasses": [
     {
       "name": "config.deviceSetup",
@@ -7,7 +7,7 @@
         {
           "name": "changeMobileView",
           "parameters": [],
-          "javadoc": "/**\n\t * Refresh browser\n\t */"
+          "javadoc": "/**\r\n\t * Refresh browser\r\n\t */"
         }
       ]
     }

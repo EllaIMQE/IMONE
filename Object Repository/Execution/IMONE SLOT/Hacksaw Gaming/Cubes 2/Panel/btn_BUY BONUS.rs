@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_BUY BONUS</name>
+   <tag></tag>
+   <elementGuidId>5c6b55d4-2b26-4312-a397-91d91cde0040</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id = 'FeatureBuyToggle' and (text() = 'BUY BONUS' or . = 'BUY BONUS')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#FeatureBuyToggle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;BUY BONUS&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9f726dd3-f233-491c-aa7d-6bce81ad63a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>FeatureBuyToggle</value>
+      <webElementGuid>f83a3689-5f2a-4f08-b289-d82daf8730fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>FeatureBuyToggle is-visible</value>
+      <webElementGuid>f27f53da-42bb-41bf-ae40-f848ce0df8f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-translation</name>
+      <type>Main</type>
+      <value>feature_buy_action_uc</value>
+      <webElementGuid>2d1f2328-aa39-47a0-b5a7-7618f09805d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-charcount</name>
+      <type>Main</type>
+      <value>9</value>
+      <webElementGuid>3646bf7f-060d-4e03-b120-5697b3b20aed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BUY BONUS</value>
+      <webElementGuid>07997d45-90d7-4c9e-8e6f-b46f8746f752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;FeatureBuyToggle&quot;)</value>
+      <webElementGuid>4108ba68-be3d-46a0-b529-701146ed55f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='FeatureBuyToggle']</value>
+      <webElementGuid>5919f1ca-a3c0-4186-89d9-5392b360bcdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DataPanel']/div</value>
+      <webElementGuid>bf30ad16-5003-4d72-ba99-6cd93ed81994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FEATURESPINS™ ACTIVATED'])[1]/following::div[2]</value>
+      <webElementGuid>f6fe485d-c174-4222-8612-95315e6201f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RTP'])[1]/following::div[7]</value>
+      <webElementGuid>cd22acd4-a0c4-4cff-bc20-dbe80cf67e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOUND'])[1]/preceding::div[2]</value>
+      <webElementGuid>45f9a3bf-6c70-4b75-84bf-4a6e703b2358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MUSIC'])[1]/preceding::div[2]</value>
+      <webElementGuid>828b3a56-1575-4566-9c1d-dacbc7f8ab24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BUY BONUS']/parent::*</value>
+      <webElementGuid>0148076a-826c-4845-b712-b787858c1b54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/div/div/div/div</value>
+      <webElementGuid>73efd0e4-c9e9-4066-9eec-fc86139ba546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'FeatureBuyToggle' and (text() = 'BUY BONUS' or . = 'BUY BONUS')]</value>
+      <webElementGuid>3abefef7-f99d-4ea1-867f-5750ced330d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

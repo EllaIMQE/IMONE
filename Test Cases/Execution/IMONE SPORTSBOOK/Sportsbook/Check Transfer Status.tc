@@ -50,14 +50,14 @@
       <name>PlayerId</name>
    </variable>
    <variable>
-      <defaultValue>findTestData('IMONE/IM SportsBook/Sportsbook').getValue(3, 1)</defaultValue>
+      <defaultValue>findTestData('IMONE/IM_SportsBook/SportsBook').getValue(3, 1)</defaultValue>
       <description></description>
       <id>2a4162aa-643b-4000-a7fb-26a039c9f28b</id>
       <masked>false</masked>
       <name>ProductWallet</name>
    </variable>
    <variable>
-      <defaultValue>findTestData('IMONE/IM SportsBook/Sportsbook').getValue(9, 1)</defaultValue>
+      <defaultValue>findTestData('IMONE/IM_SportsBook/SportsBook').getValue(9, 1)</defaultValue>
       <description></description>
       <id>40fd234b-adb4-4f5b-8520-3d683e91cbd2</id>
       <masked>false</masked>

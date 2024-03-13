@@ -25,8 +25,8 @@ import internal.GlobalVariable as GlobalVariable
 import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 
 WebUI.callTestCase(findTestCase('Execution/IMONE SPORTSBOOK/Sportsbook/Perform Transfer'), [('MerchantCode') : GlobalVariable.MerchantCode_SB
-        , ('PlayerId') : GlobalVariable.PlayerId, ('ProductWallet') : findTestData('IMONE/IM SportsBook/Sportsbook').getValue(3, 1)
-        , ('Amount') : findTestData('IMONE/IM SportsBook/Sportsbook').getValue(9, 1), ('transactionId') : GlobalVariable.generatedTransactionId], 
+        , ('PlayerId') : GlobalVariable.PlayerId, ('ProductWallet') : findTestData('IMONE/IM_SportsBook/SportsBook').getValue(3, 1)
+        , ('Amount') : findTestData('IMONE/IM_SportsBook/SportsBook').getValue(9, 1), ('transactionId') : GlobalVariable.generatedTransactionId], 
     FailureHandling.STOP_ON_FAILURE)
 
 def MerchantCode = MerchantCode

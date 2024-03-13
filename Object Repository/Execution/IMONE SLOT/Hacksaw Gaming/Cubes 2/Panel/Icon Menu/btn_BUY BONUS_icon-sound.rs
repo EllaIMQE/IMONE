@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_BUY BONUS_icon-sound</name>
+   <tag></tag>
+   <elementGuidId>1fabd931-8ac9-4bdf-98b9-5f31f6ae6866</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='SoundToggle']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon-sound-on</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#SoundToggle span >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>839e4931-027a-488a-9bdb-f0a54a6d13b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-sound-on</value>
+      <webElementGuid>3e02e12d-3572-4780-933c-16b21de68ae3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;SoundToggle&quot;)/span[@class=&quot;icon-sound-on&quot;]</value>
+      <webElementGuid>18c5d87c-6e98-4859-b433-5d5d4621f82d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='SoundToggle']/span</value>
+      <webElementGuid>2a6f267f-04b6-49b6-822c-1f7b9d1ffe6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/span</value>
+      <webElementGuid>ca5e2dbd-2527-422b-a5b4-10aa814c79de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

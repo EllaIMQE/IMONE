@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_10</name>
+   <tag></tag>
+   <elementGuidId>68c396e1-f8dd-4f9e-901f-4dd521865641</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[(text() = '10' or . = '10')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.Menu-item.AutoplayValue.is-selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=/^10$/</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>3facff46-3f97-4651-8b0c-f19c92e9b36a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Menu-item AutoplayValue is-selected</value>
+      <webElementGuid>b9aa4263-d6b3-4754-801e-8a5ec8b7ae99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>b28f2449-77df-40e5-a65c-cbd93ba1092e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>27fd0fc0-23b4-4eb8-b84e-c9d1daf02ddf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;AutoplayNavList&quot;)/li[@class=&quot;Menu-item AutoplayValue is-selected&quot;]</value>
+      <webElementGuid>ba2f6196-b69c-49f1-adf7-3d07234c139a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='AutoplayNavList']/li</value>
+      <webElementGuid>b773bfc8-c5f6-440f-a642-2fd3ebf6a319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NUMBER OF ROUNDS'])[1]/following::li[1]</value>
+      <webElementGuid>58c587be-5685-447d-a3e2-0bdc1f14a10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AUTOPLAY'])[1]/following::li[1]</value>
+      <webElementGuid>38906a23-6c8d-40a2-87b0-5008cc7fd004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STOP ON SPECIAL FEATURE WIN'])[1]/preceding::li[7]</value>
+      <webElementGuid>56331953-0a1c-465b-8c31-c8cc86b2c6b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toggle'])[1]/preceding::li[7]</value>
+      <webElementGuid>53ce77fb-eda8-43c6-924e-c5b638d3f190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]/div/ul/li</value>
+      <webElementGuid>dae30402-9415-4ee2-8da1-81ed9aa56407</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '10' or . = '10')]</value>
+      <webElementGuid>16319b6c-fc17-4cb4-a123-d4dc2b59de24</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

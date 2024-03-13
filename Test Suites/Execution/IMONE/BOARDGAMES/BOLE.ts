@@ -12,17 +12,24 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>860e42d0-5234-4619-8619-15ae7989a756</testSuiteGuid>
    <testCaseLink>
-      <guid>8654a467-0a8c-4fef-8bf1-a58a637d3b50</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/BOLE Gaming/NewLaunchMobileGame</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>fe92b285-ccd0-492b-aa71-c2c1c7840f81</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/BOLE Gaming/NewLaunchGame</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e376e2c0-7a5e-458f-b310-8fb9ac06eb98</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/BOLE Gaming/GetBalance</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8654a467-0a8c-4fef-8bf1-a58a637d3b50</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/BOLE Gaming/NewLaunchMobileGame</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
@@ -68,13 +75,6 @@
          <value></value>
          <variableId>2f46165b-b4af-4cd8-95cf-351c5e22c305</variableId>
       </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>e376e2c0-7a5e-458f-b310-8fb9ac06eb98</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Execution/IMONE BOARDGAMES/BOLE Gaming/GetBalance</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>2679685b-5ab2-4b72-b58f-db66ba5f0d10</guid>

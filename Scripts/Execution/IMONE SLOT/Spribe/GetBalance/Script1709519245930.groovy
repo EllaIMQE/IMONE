@@ -35,21 +35,27 @@ def jsonSlurper = new JsonSlurper()
 
 def jsonResponse = jsonSlurper.parseText(response.getResponseBodyContent())
 
-def balance = ((jsonResponse.Balance) as Double)
+def balance = jsonResponse.Balance
 
-def formatBal = new BigDecimal(balance).setScale(2, RoundingMode.HALF_UP)
+// Convert to BigDecimal
+def bd = new BigDecimal(balance)
 
-// Convert the BigDecimal to a String
-String formattedBalance = formatBal.toString()
+// Set scale to 3 decimal places
+bd = bd.setScale(2, BigDecimal.ROUND_HALF_UP)
 
-// Concatenate '¥' symbol with the formatted balance
-String formattedBalanceWithSymbol = formattedBalance + 'CNY'
+// Convert back to String 
+String formattedBalance = bd.toString()
 
-// Print the extracted GameUrl
-println("Balance is: $formattedBalanceWithSymbol")
+// Use regular expression to add commas
+formattedBalance = formattedBalance.replaceAll('(\\d)(?=(\\d{3})+\\.)', '$1,')
 
-// Verify the element with the '¥' symbol
-WebUI.verifyElementPresent(findTestObject('Execution/IMONE SLOT/Spribe/Hotline/balance'), 0, FailureHandling.CONTINUE_ON_FAILURE)
+// Add currency symbol
+String balanceText = '¥' + formattedBalance
 
-WebUI.closeBrowser(FailureHandling.CONTINUE_ON_FAILURE)
+// Print and verify 
+println("Balance is: $balanceText")
+
+WebUI.verifyElementPresent(findTestObject('Execution/IMONE SLOT/Spribe/Hotline/balance'), 0)
+
+WebUI.closeBrowser()
 

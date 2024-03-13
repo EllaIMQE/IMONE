@@ -21,7 +21,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'IM_AJprod02'</initValue>
+      <initValue>'im_ajprod02'</initValue>
       <name>PlayerId</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -31,7 +31,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description>IMdemo3prod</description>
-      <initValue>'IMdemo3prod'</initValue>
+      <initValue>'imdemo3prod'</initValue>
       <name>MerchantCode_SB</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -48,5 +48,10 @@
       <description></description>
       <initValue>'7_26_WP'</initValue>
       <name>PlayerId_Playtech</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'O52ver8k2wzTxtJVpV73HRaldAUsLYJI'</initValue>
+      <name>MerchantCode_Casino</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
