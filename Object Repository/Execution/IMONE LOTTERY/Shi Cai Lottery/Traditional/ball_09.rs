@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ball_09</name>
+   <tag></tag>
+   <elementGuidId>7898ede5-2d50-43aa-876d-185559bcf091</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(text(),'09')])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;09&quot;s >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ce92d789-84ad-495d-9990-1bd76a25aba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c_ball__item</value>
+      <webElementGuid>8c5ef778-ae20-4506-807a-1abcb2ea2286</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>09</value>
+      <webElementGuid>5843d38f-86c0-4ba1-8d6c-b3d4792f0341</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;desktop&quot;]/body[1]/div[@class=&quot;lang_us&quot;]/div[1]/div[1]/div[2]/div[3]/div[@class=&quot;gr_container  bg_primary  u_p--r10  u_p--l10&quot;]/div[@class=&quot;c_h-game-grid u_t--center&quot;]/div[@class=&quot;c_col--g__3&quot;]/div[@class=&quot;c_row&quot;]/div[@class=&quot;c_component&quot;]/div[@class=&quot;c_ball--xsmall&quot;]/div[@class=&quot;c_ball__item&quot;]</value>
+      <webElementGuid>e0173e64-5812-4240-bc16-d6b895d4407a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Even'])[1]/following::div[63]</value>
+      <webElementGuid>ec0bc28b-081c-4f48-bc2e-1d9dc5a4662d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odd'])[1]/following::div[68]</value>
+      <webElementGuid>e88cf1cf-e69f-4190-860e-c6a877ae443b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number'])[2]/preceding::div[20]</value>
+      <webElementGuid>2ef8269c-4ad1-4bc8-b79c-768a4eb99498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odds'])[2]/preceding::div[21]</value>
+      <webElementGuid>4a42f94c-e258-4991-ae13-1e8b8e48d3c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='09']/parent::*</value>
+      <webElementGuid>ca31b937-5084-40a0-8965-2d60aaedcf79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div/div</value>
+      <webElementGuid>bdffd40d-b630-45a4-acbb-b6b9b5812c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '09' or . = '09')]</value>
+      <webElementGuid>09ddc608-e2cc-4df9-867f-f19646dcc8bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

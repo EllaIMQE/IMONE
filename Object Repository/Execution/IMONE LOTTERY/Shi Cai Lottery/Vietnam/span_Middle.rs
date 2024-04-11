@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Middle</name>
+   <tag></tag>
+   <elementGuidId>18902551-a18b-4e02-8892-73236f05b54a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'gr_row gr_grid-vn__title')]//li[2]//label[1]//span[1]//span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;Middle (Closed)&quot;i >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c2e86d9-b97e-46f8-8ba1-ba0b8c461172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c_checkbox__inner</value>
+      <webElementGuid>79efcc59-59b8-4e98-a573-3e7ee93c9eb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;desktop&quot;]/body[1]/div[@class=&quot;lang_us&quot;]/div[1]/div[1]/div[2]/div[@class=&quot;gr_container bg_primary u_p--r10 u_p--l10&quot;]/div[@class=&quot;gr_grid-vn&quot;]/div[@class=&quot;gr_row&quot;]/div[@class=&quot;gr_col&quot;]/div[@class=&quot;gr_row gr_grid-vn__title&quot;]/div[@class=&quot;gr_row&quot;]/div[@class=&quot;gr_component&quot;]/ul[@class=&quot;gr_grid-vn__group&quot;]/li[@class=&quot;gr_group__list&quot;]/label[@class=&quot;gr_list__item&quot;]/span[@class=&quot;gr_item__input  c_checkbox&quot;]/span[@class=&quot;c_checkbox__inner&quot;]</value>
+      <webElementGuid>5f432b47-aaed-46e4-b245-8789b474f134</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/label/span/span</value>
+      <webElementGuid>7f04ecd5-3e62-4943-a6fd-c95a250a1ffa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

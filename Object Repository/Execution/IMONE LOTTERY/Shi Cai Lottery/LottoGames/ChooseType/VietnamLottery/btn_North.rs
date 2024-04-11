@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_North</name>
+   <tag></tag>
+   <elementGuidId>bd14672a-f23f-4ba5-9ccd-32c152be185b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[normalize-space()='North']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;North&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5ac344a9-f44d-4948-afcc-9a2fedc1a66c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>       
+                North
+                </value>
+      <webElementGuid>b7793ca4-9947-4cab-abe0-21d230775c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;desktop&quot;]/body[1]/div[@class=&quot;lang_us&quot;]/div[1]/div[1]/div[@class=&quot;gr_header u_clearfix&quot;]/div[@class=&quot;gr_nav--nav-bar&quot;]/div[@class=&quot;gr_nav__dropdown  c_dropdown gr_nav__dropdown--hover  c_dropdown--hover&quot;]/div[@class=&quot;c_dropdown-box--list-box-new&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;menu-container u_clearfix&quot;]/ul[1]/li[@class=&quot;gr_home__lottery__item us&quot;]/div[1]</value>
+      <webElementGuid>885d04cd-6fa3-408b-bbff-d0501384e195</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Middle'])[1]/following::div[1]</value>
+      <webElementGuid>aec98f27-eafb-4867-b568-82f456bfa6d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='South'])[1]/following::div[4]</value>
+      <webElementGuid>49b1d116-11f4-408e-91b2-2ae898f735ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Favorite'])[1]/preceding::div[3]</value>
+      <webElementGuid>2bff12bd-cc1e-45d4-ad5f-5e91ae2e4139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='North']/parent::*</value>
+      <webElementGuid>9f6a3c69-63dd-438a-9ff0-63f05c5599b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[6]/div</value>
+      <webElementGuid>5c179906-1b88-4970-9c78-741670fc4223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '       
+                North
+                ' or . = '       
+                North
+                ')]</value>
+      <webElementGuid>bdeec5ff-467f-4918-b790-b930049ac75b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

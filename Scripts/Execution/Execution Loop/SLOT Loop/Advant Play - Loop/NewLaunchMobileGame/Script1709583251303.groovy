@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import groovy.json.JsonSlurper as JsonSlurper
-import config.deviceSetup
+import config.deviceSetup as deviceSetup
 
 /*
  * import org.openqa.selenium.WebDriver as WebDriver import
@@ -55,12 +55,15 @@ for (int i = 1; i <= rowCount; i++) {
 
     WebUI.comment('Game Code: ' + gameCode)
 
-	deviceSetup changeView = new deviceSetup()
-	changeView.changeMobileView()
+    deviceSetup(changeView = new deviceSetup())
+
+    changeView.changeMobileView()
 
     WebUI.openBrowser(gameUrl, FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.delay(10, FailureHandling.CONTINUE_ON_FAILURE)
+    WebUI.waitForPageLoad(10)
+
+    WebUI.enhancedClick(findTestObject('Execution/IMONE SLOT/Advant Play/Bunny to the Moon/canvas'), FailureHandling.OPTIONAL)
 
     def windowTitle = WebUI.getWindowTitle()
 

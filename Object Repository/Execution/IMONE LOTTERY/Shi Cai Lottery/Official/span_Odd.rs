@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Odd</name>
+   <tag></tag>
+   <elementGuidId>8f0e1c1e-eaf5-447f-9b09-5c7bac171ea6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[4]/div[3]/ul[1]/li[4]/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Odd&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>71493baf-9407-46db-8ea8-27bdeb62bb7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gr_item__text</value>
+      <webElementGuid>c17dd0ef-74f4-408c-9185-666fee2396ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Odd</value>
+      <webElementGuid>94d3a199-63b4-459a-933f-2f5a33978801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;desktop&quot;]/body[1]/div[@class=&quot;lang_us&quot;]/div[1]/div[1]/div[2]/div[3]/div[@class=&quot;gr_container  bg_primary&quot;]/div[@class=&quot;gr_official&quot;]/div[@class=&quot;gr_official__section  u_clearfix&quot;]/div[@class=&quot;gr_section__controller&quot;]/ul[@class=&quot;gr_controller__group&quot;]/li[@class=&quot;gr_group__item&quot;]/span[@class=&quot;gr_item__text&quot;]</value>
+      <webElementGuid>f8f67f7b-36c3-47d9-9e17-baa4475dd44f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Small'])[1]/following::span[1]</value>
+      <webElementGuid>b3a47cb7-e338-4518-a1d0-3882e3a91374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Big'])[1]/following::span[2]</value>
+      <webElementGuid>8db4ad0a-dccf-4e8e-bb65-e720be486f09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Even'])[1]/preceding::span[1]</value>
+      <webElementGuid>e55c4550-9589-44a8-bb82-ad8739485c04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::span[2]</value>
+      <webElementGuid>af8735ac-6b20-4946-96ed-372471b19c87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Odd']/parent::*</value>
+      <webElementGuid>79f1f81e-5d11-4c41-b782-bb72a7fc91d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div[3]/ul/li[4]/span</value>
+      <webElementGuid>94dbad12-6e11-4ab7-9460-2e3b365a3e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Odd' or . = 'Odd')]</value>
+      <webElementGuid>35b2d340-74c4-4f36-93da-f56fc323608d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

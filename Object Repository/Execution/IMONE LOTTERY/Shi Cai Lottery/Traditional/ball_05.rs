@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ball_05</name>
+   <tag></tag>
+   <elementGuidId>805cb5a5-19f8-4992-99b9-be8c1557af51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[contains(@class,'c_h-game-grid u_t--center')]//div[1]//div[11]//div[1]//div[1]//div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;05&quot;s >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f0db9736-87b3-4cce-bdd9-e193b6489b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c_ball__item</value>
+      <webElementGuid>46b5b75b-1e4b-4a3f-af2f-6c807d63da45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>05</value>
+      <webElementGuid>de919735-1a79-4ba5-ab67-1ebcc081a8f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;desktop&quot;]/body[1]/div[@class=&quot;lang_us&quot;]/div[1]/div[1]/div[2]/div[3]/div[@class=&quot;gr_container  bg_primary  u_p--r10  u_p--l10&quot;]/div[@class=&quot;c_h-game-grid u_t--center&quot;]/div[@class=&quot;c_col--g__3&quot;]/div[@class=&quot;c_row&quot;]/div[@class=&quot;c_component&quot;]/div[@class=&quot;c_ball--xsmall&quot;]/div[@class=&quot;c_ball__item&quot;]</value>
+      <webElementGuid>8280df8b-f3f8-467a-98e2-63017e88ac46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Even'])[1]/following::div[35]</value>
+      <webElementGuid>9d593e9c-2e52-4ffb-90d7-0ca14a973457</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odd'])[1]/following::div[40]</value>
+      <webElementGuid>6ee44aa0-cd18-4a0b-beaf-f86e43965bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Number'])[2]/preceding::div[48]</value>
+      <webElementGuid>4a9d999b-2804-4835-8675-9168804265c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odds'])[2]/preceding::div[49]</value>
+      <webElementGuid>0345c3ca-0e75-493b-9910-9dae4fdce942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='05']/parent::*</value>
+      <webElementGuid>96662a5c-f8d4-429e-aa7b-6a1466e60b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div</value>
+      <webElementGuid>5e7da71c-0f8e-4328-b425-9531fd14193a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '05' or . = '05')]</value>
+      <webElementGuid>8d7ecaa9-04ee-4b5b-aafc-5927483e3008</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -58,13 +58,7 @@ for (int i = 1; i <= rowCount; i++) {
 
     WebUI.maximizeWindow(FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.delay(15, FailureHandling.CONTINUE_ON_FAILURE)
-
-    def windowTitle = WebUI.getWindowTitle()
-
-    WebUI.comment("Window Title: $windowTitle")
-
-    if (windowTitle.contains(gameName)) {
+   WebUI.delay(30)e.contains(gameName)) {
         println("Window title matches game name: $gameName")
     } else {
         println("Window title does not match game name: $gameName")

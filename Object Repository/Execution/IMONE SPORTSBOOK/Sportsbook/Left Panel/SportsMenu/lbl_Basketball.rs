@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_Basketball</name>
+   <tag></tag>
+   <elementGuidId>253f40f2-7921-4455-af47-9b4a7c6bd979</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Basketball' or . = 'Basketball')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Basketball LIVE 217&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4256b646-c57f-4e23-98fe-4861b7fb6586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Basketball</value>
+      <webElementGuid>defc3055-2f6e-4b13-9851-9ca8144f4a79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left_panel&quot;)/div[@class=&quot;leftmenu_items sportsmenu&quot;]/div[@class=&quot;leftmenu_row_inner&quot;]/div[@class=&quot;sports_menu_contentwrap&quot;]/div[@class=&quot;leftmenu_sports&quot;]/div[@class=&quot;leftmenu_sports_wrap&quot;]/div[1]/div[@class=&quot;leftmenu_sports_item&quot;]/a[@class=&quot;leftmenu_sports_header&quot;]/div[2]</value>
+      <webElementGuid>595b8853-aa16-45fb-88e1-95c38d833ede</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left_panel']/div[6]/div/div[2]/div[3]/div/div/div[2]/a/div[2]</value>
+      <webElementGuid>903e82db-0f3e-42e9-9642-0e253ee6385e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outright'])[1]/following::div[4]</value>
+      <webElementGuid>7de8a5c7-b8e6-42d8-8341-c6eb3562518f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Half Time / Full Time'])[1]/following::div[7]</value>
+      <webElementGuid>3f140d0f-99df-4730-b276-6b165af54dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIVE'])[2]/preceding::div[1]</value>
+      <webElementGuid>930e25ed-a860-4815-ae6a-1086263a32dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Handicap &amp; Over/Under'])[2]/preceding::div[4]</value>
+      <webElementGuid>b2b7429e-889a-4488-b09e-63f2cc10f6de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div[2]</value>
+      <webElementGuid>763744ed-71df-45a2-89e2-af7ee05af8cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Basketball' or . = 'Basketball')]</value>
+      <webElementGuid>f31eb0e1-4a58-44a2-b06a-03c571be685a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -45,7 +45,9 @@ WebUI.maximizeWindow(FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(20, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.enhancedClick(findTestObject('Execution/IMONE LIVE DEALER/World Entertainment (EBET)/WE Entertainment/btn_Play'))
+WebUI.mouseOver(findTestObject('Execution/IMONE LIVE DEALER/World Entertainment (EBET)/Page_WE Entertainment/btn_icon'))
+
+WebUI.enhancedClick(findTestObject('Execution/IMONE LIVE DEALER/World Entertainment (EBET)/Page_WE Entertainment/btn_Play'))
 
 WebUI.delay(5)
 

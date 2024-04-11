@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_PK10(Trad.)</name>
+   <tag></tag>
+   <elementGuidId>5cd2a7de-416c-485c-b227-9194f6ee7b97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[normalize-space()='PK10(Trad.)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;PK10(Trad.)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>23b40428-de61-49fa-83f5-7fb0ac9ceb39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>us</value>
+      <webElementGuid>bf426ede-9c9e-4e46-97f4-90e99a32a158</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PK10(Trad.)</value>
+      <webElementGuid>1080fa63-db67-409f-8425-c3714cbfbb23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;desktop&quot;]/body[1]/div[@class=&quot;lang_us&quot;]/div[1]/div[1]/div[@class=&quot;gr_header u_clearfix&quot;]/div[@class=&quot;gr_nav--nav-bar&quot;]/div[@class=&quot;gr_nav__dropdown  c_dropdown gr_nav__dropdown--hover  c_dropdown--hover&quot;]/div[@class=&quot;c_dropdown-box--list-box-new&quot;]/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;menu-container&quot;]/ul[@class=&quot;u_clearfix&quot;]/li[@class=&quot;us&quot;]</value>
+      <webElementGuid>3ec0370e-c273-4f3c-81c5-c88da37f126a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fast 3(Trad.)'])[1]/following::li[1]</value>
+      <webElementGuid>10025841-e125-4b9c-882c-14bc77cdf351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SSC(Trad.)'])[1]/following::li[3]</value>
+      <webElementGuid>9db10663-bff8-4e3a-9458-f500235abce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mark six'])[1]/preceding::li[1]</value>
+      <webElementGuid>22560757-9f03-48ce-85e4-f5215e86c26e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]</value>
+      <webElementGuid>2558379f-0221-4533-a361-b0e243047375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'PK10(Trad.)' or . = 'PK10(Trad.)')]</value>
+      <webElementGuid>136a53c6-cdae-48d8-a6fc-9dd2e87fa6af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

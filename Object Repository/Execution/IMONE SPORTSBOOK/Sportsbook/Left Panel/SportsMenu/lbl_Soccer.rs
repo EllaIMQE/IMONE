@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_Soccer</name>
+   <tag></tag>
+   <elementGuidId>a1aeabfa-daa7-4c81-9ca4-94dcd20d79b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.leftmenu_sports_header > div:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Soccer']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Soccer LIVE 362&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c9f175f9-e1ff-4c3e-8503-2b08f87d2621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Soccer</value>
+      <webElementGuid>35e41558-55d0-4585-88f0-8390d045c313</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left_panel&quot;)/div[@class=&quot;leftmenu_items sportsmenu&quot;]/div[@class=&quot;leftmenu_row_inner&quot;]/div[@class=&quot;sports_menu_contentwrap&quot;]/div[@class=&quot;leftmenu_sports&quot;]/div[@class=&quot;leftmenu_sports_wrap&quot;]/div[1]/div[@class=&quot;leftmenu_sports_item active&quot;]/a[@class=&quot;leftmenu_sports_header&quot;]/div[2]</value>
+      <webElementGuid>96b576fc-388e-4540-8ab2-c02282259ce0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left_panel']/div[6]/div/div[2]/div[3]/div/div/div/a/div[2]</value>
+      <webElementGuid>41fed1b7-d2a6-4ec8-974d-db150219c35f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Early'])[1]/following::div[6]</value>
+      <webElementGuid>d04fb306-bfff-4f9d-80d1-3a8360cae359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today'])[1]/following::div[7]</value>
+      <webElementGuid>d7594a08-fa3f-4e9a-8196-62ba859b476d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIVE'])[1]/preceding::div[1]</value>
+      <webElementGuid>673c092e-6887-41de-947c-1921cbeefc5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Handicap &amp; Over/Under'])[1]/preceding::div[4]</value>
+      <webElementGuid>0b73aad4-e50a-4be5-b41b-dc5d83ec4d6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Soccer']/parent::*</value>
+      <webElementGuid>3e6de084-0a6d-45bd-b0c3-232dad96b29f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]</value>
+      <webElementGuid>28fb0943-2205-4564-90df-d411bb73eff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Soccer' or . = 'Soccer')]</value>
+      <webElementGuid>e41f69d0-31fa-4cdb-9f75-25613f5ad756</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

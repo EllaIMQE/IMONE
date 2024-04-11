@@ -43,5 +43,5 @@ WebUI.openBrowser(gameUrl, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.maximizeWindow(FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.delay(20, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.delay(10, FailureHandling.CONTINUE_ON_FAILURE)
 

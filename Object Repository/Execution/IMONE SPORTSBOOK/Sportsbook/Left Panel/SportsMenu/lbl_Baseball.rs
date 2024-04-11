@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_Baseball</name>
+   <tag></tag>
+   <elementGuidId>21beb34f-b540-4d75-8f2f-600501f4206e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*/text()[normalize-space(.)='Baseball']/parent::*</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Baseball New 26&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e981871-3ee4-4e59-9078-a5735074b66e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Baseball</value>
+      <webElementGuid>26bfa191-c5df-4377-a08c-9bc508cae8c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left_panel&quot;)/div[@class=&quot;leftmenu_items sportsmenu&quot;]/div[@class=&quot;leftmenu_row_inner&quot;]/div[@class=&quot;sports_menu_contentwrap&quot;]/div[@class=&quot;leftmenu_sports&quot;]/div[@class=&quot;leftmenu_sports_wrap&quot;]/div[1]/div[@class=&quot;leftmenu_sports_item&quot;]/a[@class=&quot;leftmenu_sports_header&quot;]/div[2]</value>
+      <webElementGuid>dcd00ab3-80e3-4697-aedb-2390380dded6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left_panel']/div[6]/div/div[2]/div[3]/div/div/div[6]/a/div[2]</value>
+      <webElementGuid>4ac48ae8-d302-4d85-b78f-73bee91278ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outright'])[5]/following::div[4]</value>
+      <webElementGuid>af3f93e2-9c13-437b-94fc-27e33513ac10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Half Time / Full Time'])[5]/following::div[7]</value>
+      <webElementGuid>dab83823-f847-4e8c-ae59-99ba1c2781dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/preceding::div[1]</value>
+      <webElementGuid>2ceb0db2-858f-4c03-a011-aa5a23748736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Handicap &amp; Over/Under'])[6]/preceding::div[4]</value>
+      <webElementGuid>4d223a27-9f90-48f4-8b91-264f5134eb40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Baseball']/parent::*</value>
+      <webElementGuid>2131a332-f435-4f0c-96a2-3d3a18139844</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/a/div[2]</value>
+      <webElementGuid>a1853f69-eeaa-4a5a-8c35-573ceedb8e76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Baseball' or . = 'Baseball')]</value>
+      <webElementGuid>cf46da0f-65f4-4e73-94f5-763c946fb202</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

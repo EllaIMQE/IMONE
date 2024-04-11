@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Speed</name>
+   <tag></tag>
+   <elementGuidId>15a5055c-06ab-424c-8496-194cbe6aaf31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Speed' or . = 'Speed')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Speed$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8cd4f56d-3edb-4bd9-82e3-bd743e775bd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-1lnw2z1-3 hLzgAc</value>
+      <webElementGuid>73ee64a3-7455-4fca-b70a-3719796c1b1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Speed</value>
+      <webElementGuid>ef94bc8a-0489-4cbb-ad27-87df66b1e29b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;appScreen&quot;)/div[@class=&quot;sc-ta30lr-0 hsHWeV&quot;]/div[@class=&quot;sc-ta30lr-2 iYbVsY&quot;]/div[@class=&quot;sc-nj6x7d-1 ijVIxo&quot;]/div[@class=&quot;sc-1lnw2z1-0 kgSHLD&quot;]/div[@class=&quot;sc-1lnw2z1-3 hLzgAc&quot;]</value>
+      <webElementGuid>4a905dc5-1fc8-4e16-a123-2e87b8db0d8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='appScreen']/div/div[3]/div[4]/div[7]/div[4]</value>
+      <webElementGuid>40c1d867-e81b-4bef-9d32-b0c95174a612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Squeeze'])[1]/following::div[1]</value>
+      <webElementGuid>e8184392-faa8-468f-8755-b524c0cfd1fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Traditional'])[1]/following::div[3]</value>
+      <webElementGuid>78264ccc-a91a-4cc2-b28f-d77907320a5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hot'])[1]/preceding::div[2]</value>
+      <webElementGuid>fb886e46-9630-4a60-a829-7122a7339a20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[4]</value>
+      <webElementGuid>56697a84-dc1f-4dd9-a721-537a85f2421e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Speed' or . = 'Speed')]</value>
+      <webElementGuid>33b96d01-470c-49d0-af91-6da333a33d2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

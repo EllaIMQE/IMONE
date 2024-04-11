@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Big</name>
+   <tag></tag>
+   <elementGuidId>37eed2c8-1923-4d56-9d9f-6c375d73a855</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[2]/div[3]/ul[1]/li[2]/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Big&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a8d64c12-ad87-40e0-87d9-b0bff6da5363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gr_item__text</value>
+      <webElementGuid>08d45c2e-6182-4c65-8b52-0857a5218b38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Big</value>
+      <webElementGuid>fa74608d-e0f3-4215-b612-ad77607c8a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;desktop&quot;]/body[1]/div[@class=&quot;lang_us&quot;]/div[1]/div[1]/div[2]/div[3]/div[@class=&quot;gr_container  bg_primary&quot;]/div[@class=&quot;gr_official&quot;]/div[@class=&quot;gr_official__section  u_clearfix&quot;]/div[@class=&quot;gr_section__controller&quot;]/ul[@class=&quot;gr_controller__group&quot;]/li[@class=&quot;gr_group__item&quot;]/span[@class=&quot;gr_item__text&quot;]</value>
+      <webElementGuid>8a7393ba-f739-49c6-bd83-cfa6a6b885df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::span[1]</value>
+      <webElementGuid>7ab6ddff-e5a6-46ee-8a1b-fb6b96f19743</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter Pair'])[1]/following::span[12]</value>
+      <webElementGuid>da56649d-9caa-42b2-8c3f-29399e2c955b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Small'])[1]/preceding::span[1]</value>
+      <webElementGuid>deb7a2b6-99f2-49b7-ba65-10d1027ab0f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odd'])[1]/preceding::span[2]</value>
+      <webElementGuid>9833b517-fe7c-4cad-b181-f641fee9bb67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Big']/parent::*</value>
+      <webElementGuid>ba1d1b27-848b-4aad-94ae-b7775ee62997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div[3]/ul/li[2]/span</value>
+      <webElementGuid>d346bae8-5bce-4f1b-b94d-b0daeb252119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Big' or . = 'Big')]</value>
+      <webElementGuid>b84e0104-c9f0-4582-b27b-eb5a5e7a0378</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

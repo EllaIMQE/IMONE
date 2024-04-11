@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Squeeze</name>
+   <tag></tag>
+   <elementGuidId>2e45f37f-8325-4774-bfa5-4e1a4afe7a47</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Squeeze' or . = 'Squeeze')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Squeeze$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>81ad4140-2fc7-48d8-a0a9-80979e7800d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-1lnw2z1-3 hLzgAc</value>
+      <webElementGuid>cf7fbb71-459d-4fd3-8da4-001ecda990a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Squeeze</value>
+      <webElementGuid>1a1934f6-01f3-4980-9ecf-83695732656b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;appScreen&quot;)/div[@class=&quot;sc-ta30lr-0 hsHWeV&quot;]/div[@class=&quot;sc-ta30lr-2 iYbVsY&quot;]/div[@class=&quot;sc-nj6x7d-1 ijVIxo&quot;]/div[@class=&quot;sc-1lnw2z1-0 kgSHLD&quot;]/div[@class=&quot;sc-1lnw2z1-3 hLzgAc&quot;]</value>
+      <webElementGuid>70608f34-b4a8-4194-a9d4-c93a44665941</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='appScreen']/div/div[3]/div[4]/div[7]/div[3]</value>
+      <webElementGuid>d5e982e9-dfdf-494e-b11f-e3a317d5ea77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Traditional'])[1]/following::div[1]</value>
+      <webElementGuid>b9c5e9ef-2ed1-4995-86cf-5a0e4ebb5ab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classic'])[1]/following::div[3]</value>
+      <webElementGuid>c1c5cc49-2ded-44e0-8cd4-abc89c36d687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Speed'])[1]/preceding::div[2]</value>
+      <webElementGuid>640d83ae-5e3b-4bb4-8cfb-19e855cb175e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[3]</value>
+      <webElementGuid>643c2562-9b30-4887-94b8-156f7fc8f9d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Squeeze' or . = 'Squeeze')]</value>
+      <webElementGuid>a9e11c5e-6865-46b5-8648-ddae2670c485</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

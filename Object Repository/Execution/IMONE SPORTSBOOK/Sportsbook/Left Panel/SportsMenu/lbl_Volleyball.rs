@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>lbl_Volleyball</name>
+   <tag></tag>
+   <elementGuidId>7a5daefc-4e24-47b8-a3e0-4cc739ed10c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Volleyball' or . = 'Volleyball')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Volleyball LIVE 75&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fce1e723-55b4-4e2a-81d3-f3d081913af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Volleyball</value>
+      <webElementGuid>cae92b43-7c8e-4085-8146-78031843563d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left_panel&quot;)/div[@class=&quot;leftmenu_items sportsmenu&quot;]/div[@class=&quot;leftmenu_row_inner&quot;]/div[@class=&quot;sports_menu_contentwrap&quot;]/div[@class=&quot;leftmenu_sports&quot;]/div[@class=&quot;leftmenu_sports_wrap&quot;]/div[1]/div[@class=&quot;leftmenu_sports_item&quot;]/a[@class=&quot;leftmenu_sports_header&quot;]/div[2]</value>
+      <webElementGuid>ba5a0303-db11-4bbc-b68c-2b3420005c9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left_panel']/div[6]/div/div[2]/div[3]/div/div/div[5]/a/div[2]</value>
+      <webElementGuid>c7f0273e-683d-4fe0-9211-48ecea40790a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outright'])[4]/following::div[4]</value>
+      <webElementGuid>1a0be675-c08b-4286-9ff7-6ec15e7e93e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Half Time / Full Time'])[4]/following::div[7]</value>
+      <webElementGuid>4fbedc79-fd9a-4923-887e-8d3e3289012e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIVE'])[5]/preceding::div[1]</value>
+      <webElementGuid>d505ed21-6c72-4edc-842f-93288f10a5e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Handicap &amp; Over/Under'])[5]/preceding::div[4]</value>
+      <webElementGuid>5a9a1e6a-1e1e-400a-aa00-b62aaee5f3cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/div[2]</value>
+      <webElementGuid>340a7cf2-918f-4818-b86c-667e4623635c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Volleyball' or . = 'Volleyball')]</value>
+      <webElementGuid>a078f442-cd68-4153-8bb6-496a7ce470cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

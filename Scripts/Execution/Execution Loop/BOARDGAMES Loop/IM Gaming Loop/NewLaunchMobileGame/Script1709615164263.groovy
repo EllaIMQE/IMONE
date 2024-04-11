@@ -60,7 +60,7 @@ for (int i = 1; i <= rowCount; i++) {
 
     WebUI.openBrowser(gameUrl, FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.delay(15, FailureHandling.CONTINUE_ON_FAILURE)
+   WebUI.delay(30)
 
     def windowTitle = WebUI.getWindowTitle()
 

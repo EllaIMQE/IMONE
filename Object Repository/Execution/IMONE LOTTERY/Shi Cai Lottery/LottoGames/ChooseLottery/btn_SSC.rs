@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_SSC</name>
+   <tag></tag>
+   <elementGuidId>952e7e03-b02f-4fe7-b32a-29fa3cce32dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu-container > ul.u_clearfix > li.is_active.us > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[normalize-space()='SSC']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;SSC&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c40bcf34-a44c-4022-a261-7b67b4149154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SSC</value>
+      <webElementGuid>68880c89-2c1e-4a68-96ce-7f27d01f6f04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;desktop&quot;]/body[1]/div[@class=&quot;lang_us&quot;]/div[1]/div[1]/div[@class=&quot;gr_header u_clearfix&quot;]/div[@class=&quot;gr_nav--nav-bar&quot;]/div[@class=&quot;gr_nav__dropdown  c_dropdown gr_nav__dropdown--hover  c_dropdown--hover&quot;]/div[@class=&quot;c_dropdown-box--list-box-new&quot;]/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;menu-container&quot;]/ul[@class=&quot;u_clearfix&quot;]/li[@class=&quot;is_active us&quot;]/div[1]</value>
+      <webElementGuid>f17a5ccf-a48d-4094-b7cf-52a94e63f7b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose lottery'])[1]/following::div[2]</value>
+      <webElementGuid>83a8f532-bccd-47ac-9868-fdb43ffbfdea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Malaysia Lottery'])[1]/following::div[4]</value>
+      <webElementGuid>b7b29923-ca41-4c04-a0ee-fadd46b6adc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fast 3'])[1]/preceding::div[2]</value>
+      <webElementGuid>f4799d22-f2a7-48c9-a6a2-7655039a2a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PK10'])[1]/preceding::div[3]</value>
+      <webElementGuid>548ece20-3025-4703-b81b-97faace75818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SSC']/parent::*</value>
+      <webElementGuid>649fd49f-c8c6-4781-96eb-511df8095286</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/div</value>
+      <webElementGuid>0eabd079-10cf-4fdf-ae26-cbc7cb6f9b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SSC' or . = 'SSC')]</value>
+      <webElementGuid>e5aa7813-8c09-4b16-a4ed-e1ed0f69d3af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

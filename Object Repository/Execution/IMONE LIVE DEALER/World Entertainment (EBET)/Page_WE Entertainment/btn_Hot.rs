@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Hot</name>
+   <tag></tag>
+   <elementGuidId>bad192ed-3cd9-47f9-ac8c-a3e8bff70fe6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'Hot' or . = 'Hot')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Hot$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e9b9a2b4-daa2-4599-a3f4-f7dee5cad57b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-1lnw2z1-3 hLzgAc</value>
+      <webElementGuid>6b077fb2-0673-4aba-9e60-01682c67029b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hot</value>
+      <webElementGuid>4162a2ac-90d1-46dd-bd50-891b19ed28aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;appScreen&quot;)/div[@class=&quot;sc-ta30lr-0 hsHWeV&quot;]/div[@class=&quot;sc-ta30lr-2 iYbVsY&quot;]/div[@class=&quot;sc-nj6x7d-1 ijVIxo&quot;]/div[@class=&quot;sc-1lnw2z1-0 kgSHLD&quot;]/div[@class=&quot;sc-1lnw2z1-3 hLzgAc&quot;]</value>
+      <webElementGuid>4222215a-d55c-4f80-9ce1-484b996bf200</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='appScreen']/div/div[3]/div[4]/div[7]/div[5]</value>
+      <webElementGuid>65e5f197-e959-4b6b-9c40-1af9ed879a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Speed'])[1]/following::div[1]</value>
+      <webElementGuid>83881498-17cd-42e9-b41e-fc71d2855571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Squeeze'])[1]/following::div[3]</value>
+      <webElementGuid>fa9e0682-9432-4aae-b67c-2ead445120a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/preceding::div[2]</value>
+      <webElementGuid>cd77caea-4840-45e4-8441-a5a2ef292d98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[5]</value>
+      <webElementGuid>d2085ea1-6639-4413-af5d-bc5bf3b539be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Hot' or . = 'Hot')]</value>
+      <webElementGuid>59c70eb9-f18b-4f87-b838-471b0430d07b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

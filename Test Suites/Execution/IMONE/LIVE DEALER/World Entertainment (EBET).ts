@@ -12,24 +12,17 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>20fc281e-f040-4ee2-ac79-61b8580bcc0c</testSuiteGuid>
    <testCaseLink>
-      <guid>7e89d253-3cbc-4776-b8f8-2782ddd1b357</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Execution/IMONE LIVE DEALER/World Entertainment (EBET)/NewLaunchMobileGame</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>7d8c6ebb-6b58-4e90-9ac0-157a98bc4fe5</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Execution/IMONE LIVE DEALER/World Entertainment (EBET)/NewLaunchGame</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>df0e1dd3-67c0-45a5-b6ff-a280b27f5823</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Execution/IMONE LIVE DEALER/World Entertainment (EBET)/GetBalance</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7e89d253-3cbc-4776-b8f8-2782ddd1b357</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Execution/IMONE LIVE DEALER/World Entertainment (EBET)/NewLaunchMobileGame</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

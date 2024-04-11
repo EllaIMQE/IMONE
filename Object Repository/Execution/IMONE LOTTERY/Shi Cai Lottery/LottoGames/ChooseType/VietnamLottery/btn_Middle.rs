@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Middle</name>
+   <tag></tag>
+   <elementGuidId>80b75bc0-2812-4ed2-8981-fe214473a69b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[normalize-space()='Middle']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Middle&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4ca05ffa-1061-4049-a2b2-cb8c347af9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>       
+                Middle
+                </value>
+      <webElementGuid>9341afbf-402c-423e-ae0d-b04fe06cfbea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;desktop&quot;]/body[1]/div[@class=&quot;lang_us&quot;]/div[1]/div[1]/div[@class=&quot;gr_header u_clearfix&quot;]/div[@class=&quot;gr_nav--nav-bar&quot;]/div[@class=&quot;gr_nav__dropdown  c_dropdown gr_nav__dropdown--hover  c_dropdown--hover&quot;]/div[@class=&quot;c_dropdown-box--list-box-new&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;menu-container u_clearfix&quot;]/ul[1]/li[@class=&quot;gr_home__lottery__item us&quot;]/div[1]</value>
+      <webElementGuid>7aa3d47f-5fe2-46c5-8300-a0673f777d3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='South'])[1]/following::div[1]</value>
+      <webElementGuid>9e84cbe4-3c6e-4423-871a-5a9a0835f5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::div[4]</value>
+      <webElementGuid>40da1d83-98bf-4fe7-8135-7472b0c650b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='North'])[1]/preceding::div[3]</value>
+      <webElementGuid>08ac88d5-88fd-442d-aa0b-48c573d868e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Favorite'])[1]/preceding::div[6]</value>
+      <webElementGuid>6cd5e49a-b9a9-4075-892e-3dcd2cb13b83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Middle']/parent::*</value>
+      <webElementGuid>e6c4aac8-9533-4341-b18f-8c7a1431063a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[5]/div</value>
+      <webElementGuid>3681ff87-d2d3-405c-8909-64a1168641f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '       
+                Middle
+                ' or . = '       
+                Middle
+                ')]</value>
+      <webElementGuid>011e063e-47b4-4736-9933-e4993431c38f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

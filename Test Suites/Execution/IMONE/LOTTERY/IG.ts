@@ -113,4 +113,11 @@
          <variableId>1d26aafe-bdec-401d-84f6-ea75a5b35671</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>bc75c355-31ec-449f-9a8f-dbcf9ceb75ac</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Execution/IMONE LOTTERY/IG Lottery/PlaceBet</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

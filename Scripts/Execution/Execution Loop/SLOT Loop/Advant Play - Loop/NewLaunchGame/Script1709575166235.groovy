@@ -58,7 +58,9 @@ for (int i = 1; i <= rowCount; i++) {
 
     WebUI.maximizeWindow(FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.delay(10, FailureHandling.CONTINUE_ON_FAILURE)
+    WebUI.waitForPageLoad(10)
+
+    WebUI.enhancedClick(findTestObject('Execution/IMONE SLOT/Advant Play/Bunny to the Moon/canvas'), FailureHandling.OPTIONAL)
 
     def windowTitle = WebUI.getWindowTitle()
 

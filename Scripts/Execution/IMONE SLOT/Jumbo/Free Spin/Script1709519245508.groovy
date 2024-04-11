@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.verifyElementVisible(findTestObject('Execution/IMONE SLOT/Jumbo/Napoleon - JDB/canvas'), FailureHandling.OPTIONAL)
 
-WebUI.delay(10, FailureHandling.CONTINUE_ON_FAILURE)
+WebUI.delay(30)
 
 WebUI.enhancedClick(findTestObject('Execution/IMONE SLOT/Jumbo/Napoleon - JDB/canvas'), FailureHandling.OPTIONAL)
 

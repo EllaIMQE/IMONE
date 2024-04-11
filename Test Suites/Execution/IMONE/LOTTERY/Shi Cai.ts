@@ -113,4 +113,11 @@
          <variableId>6354154f-322b-4aa8-92ca-3a88d9c6964d</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>f66616dd-2e58-42b2-b25b-ea4133fa9dd3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Execution/IMONE LOTTERY/Shi Cai Lottery/PlaceBet</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

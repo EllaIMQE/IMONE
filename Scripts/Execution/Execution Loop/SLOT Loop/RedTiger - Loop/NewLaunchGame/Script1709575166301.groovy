@@ -58,7 +58,7 @@ for (int i = 1; i <= rowCount; i++) {
 
     WebUI.maximizeWindow(FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.delay(15, FailureHandling.CONTINUE_ON_FAILURE)
+    WebUI.delay(60)
 
     def windowTitle = WebUI.getWindowTitle()
 

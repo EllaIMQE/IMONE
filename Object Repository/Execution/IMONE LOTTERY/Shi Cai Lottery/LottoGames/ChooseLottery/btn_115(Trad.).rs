@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_115(Trad.)</name>
+   <tag></tag>
+   <elementGuidId>f82f1dbe-4641-424f-acb3-768b1021914a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[normalize-space()='11×5(Trad.)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;11×5(Trad.)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a09d78ba-1c31-49a5-a63b-db2cd884a780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11×5(Trad.)</value>
+      <webElementGuid>77591288-e97b-4bb2-88fe-e1dc757c4bb1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;desktop&quot;]/body[1]/div[@class=&quot;lang_us&quot;]/div[1]/div[1]/div[@class=&quot;gr_header u_clearfix&quot;]/div[@class=&quot;gr_nav--nav-bar&quot;]/div[@class=&quot;gr_nav__dropdown  c_dropdown gr_nav__dropdown--hover  c_dropdown--hover&quot;]/div[@class=&quot;c_dropdown-box--list-box-new&quot;]/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;menu-container&quot;]/ul[@class=&quot;u_clearfix&quot;]/li[@class=&quot;us&quot;]/div[1]</value>
+      <webElementGuid>1530952c-fa80-4418-ae2c-bde01aa92bb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SSC(Trad.)'])[1]/following::div[1]</value>
+      <webElementGuid>e1ab999f-1834-4bd6-9fd4-49dd86e8b8ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose lottery'])[1]/following::div[3]</value>
+      <webElementGuid>219a5458-d847-41a4-b144-40f7f2e6b767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fast 3(Trad.)'])[1]/preceding::div[1]</value>
+      <webElementGuid>86103987-4b69-45a0-8b68-5b0eb403a0b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PK10(Trad.)'])[1]/preceding::div[2]</value>
+      <webElementGuid>55a29117-8ea7-43c8-881c-38cdde6dddf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='11×5(Trad.)']/parent::*</value>
+      <webElementGuid>3af39caa-2a17-404f-ad87-16223b7dd3c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/div</value>
+      <webElementGuid>014d2838-93a7-4fab-9ab1-a52ceecf0d0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '11×5(Trad.)' or . = '11×5(Trad.)')]</value>
+      <webElementGuid>3e9d1541-aad7-4216-9d55-1b6bebacd7f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

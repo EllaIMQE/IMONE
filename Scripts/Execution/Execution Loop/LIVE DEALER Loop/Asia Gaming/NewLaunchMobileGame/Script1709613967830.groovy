@@ -60,11 +60,7 @@ for (int i = 1; i <= rowCount; i++) {
 
     WebUI.openBrowser(gameUrl, FailureHandling.CONTINUE_ON_FAILURE)
 
-    WebUI.delay(15, FailureHandling.CONTINUE_ON_FAILURE)
-
-    def windowTitle = WebUI.getWindowTitle()
-
-    WebUI.comment("Window Title: $windowTitle")
+   WebUI.delay(30)"Window Title: $windowTitle")
 
     if (windowTitle.contains(gameName)) {
         println("Window title matches game name: $gameName")

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Kwok</name>
+   <tag></tag>
+   <elementGuidId>65fc2add-f8ec-486d-8133-6de35a87d13f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[contains(@class,'c_component')])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.levelCenter > div > div > .c_row > .c_vAlign--warp > div:nth-child(3) >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3fc080e0-e189-4816-a817-f0b7cf47d1a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c_component</value>
+      <webElementGuid>d2fd7ac1-e1d8-4597-930c-591f663ab366</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;desktop&quot;]/body[1]/div[@class=&quot;lang_us&quot;]/div[1]/div[1]/div[2]/div[3]/div[@class=&quot;gr_container  bg_primary  u_p--t10  u_p--r10  u_p--l10&quot;]/div[@class=&quot;c_h-game-grid u_t--center gr_container__fantan gr_container__fantan--old gr_container__ortuneSpars&quot;]/div[@class=&quot;c_row&quot;]/div[@class=&quot;c_row alignCenter&quot;]/div[@class=&quot;levelCenter&quot;]/div[@class=&quot;c_row&quot;]/div[@class=&quot;c_col&quot;]/div[@class=&quot;c_row c_vAlign&quot;]/div[@class=&quot;c_vAlign--warp&quot;]/div[@class=&quot;c_component&quot;]</value>
+      <webElementGuid>eaa4998f-2edd-4f84-bf53-e181c1125bea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Traditional'])[2]/following::div[72]</value>
+      <webElementGuid>e679e8c3-4460-4375-b1e5-c9afc9e07b07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Official'])[2]/following::div[72]</value>
+      <webElementGuid>eff396c3-f4ff-49fb-9664-16fb65984d96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Big'])[1]/preceding::div[9]</value>
+      <webElementGuid>a1806d08-f153-447d-a4f1-c44dd74b5325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Small'])[1]/preceding::div[16]</value>
+      <webElementGuid>29e150ac-1846-4061-a30d-73ddf46bdce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div[3]</value>
+      <webElementGuid>eba136fa-4bf7-4585-85af-6f8fe9dec16e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import groovy.json.JsonSlurper as JsonSlurper
-import config.deviceSetup
+import config.deviceSetup as deviceSetup
 
 /*
  * import org.openqa.selenium.WebDriver as WebDriver import
@@ -40,14 +40,17 @@ println("GameUrl: $gameUrl")
 
 WebUI.comment('Game Link: ' + gameUrl)
 
-deviceSetup changeView = new deviceSetup()
+deviceSetup(changeView = new deviceSetup())
+
 changeView.changeMobileView()
 
 WebUI.openBrowser(gameUrl, FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.delay(15, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.enhancedClick(findTestObject('Execution/IMONE LIVE DEALER/World Entertainment (EBET)/WE Entertainment/btn_Play'))
+WebUI.mouseOver(findTestObject('Execution/IMONE LIVE DEALER/World Entertainment (EBET)/Page_WE Entertainment/btn_icon'))
+
+WebUI.enhancedClick(findTestObject('Execution/IMONE LIVE DEALER/World Entertainment (EBET)/Page_WE Entertainment/btn_Play'))
 
 WebUI.delay(5)
 
